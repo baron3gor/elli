@@ -1,0 +1,3785 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Elli\n"
+"POT-Creation-Date: 2020-04-13 13:40+0300\n"
+"PO-Revision-Date: 2016-08-25 21:53+0200\n"
+"Last-Translator: Alethemes.com <alexandr.sochirca@gmail.com>\n"
+"Language-Team: Pixrow <hello@pixrow.co>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x;esc_html__;esc_html_e;esc_attr__;"
+"esct_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:8
+msgid "404"
+msgstr ""
+
+#: ../404.php:15
+msgid ""
+"Sorry, but the page you're looking for has not found. Try checking the URL "
+"for errors, then hit the refresh button on your browser."
+msgstr ""
+
+#: ../404.php:17 ../attachment.php:27
+msgid "Go Back"
+msgstr ""
+
+#: ../aletheme/config.php:23 ../aletheme/config.php:124
+#: ../aletheme/config.php:142
+msgid "Page Settings"
+msgstr ""
+
+#: ../aletheme/config.php:31
+msgid "Navigation Type"
+msgstr ""
+
+#: ../aletheme/config.php:32
+msgid "Select Type of Navigation"
+msgstr ""
+
+#: ../aletheme/config.php:37
+msgid "Boxed"
+msgstr ""
+
+#: ../aletheme/config.php:38
+msgid "Full Width"
+msgstr ""
+
+#: ../aletheme/config.php:43
+msgid "Theme Preloader"
+msgstr ""
+
+#: ../aletheme/config.php:44
+msgid "Enable or disable Preloader on This Page"
+msgstr ""
+
+#: ../aletheme/config.php:49 ../aletheme/config.php:90
+#: ../aletheme/config.php:115
+msgid "Enable"
+msgstr ""
+
+#: ../aletheme/config.php:50 ../aletheme/config.php:91
+#: ../aletheme/config.php:116
+msgid "Disable"
+msgstr ""
+
+#: ../aletheme/config.php:54
+msgid "Body Background Color"
+msgstr ""
+
+#: ../aletheme/config.php:55
+msgid "Insert the color for body."
+msgstr ""
+
+#: ../aletheme/config.php:60
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../aletheme/config.php:61
+msgid "Insert the color for footer."
+msgstr ""
+
+#: ../aletheme/config.php:66
+msgid "Sticky Navigation Background Color"
+msgstr ""
+
+#: ../aletheme/config.php:67
+msgid "Insert the color for sticky navigation."
+msgstr ""
+
+#: ../aletheme/config.php:76
+msgid "Inner Page Settings"
+msgstr ""
+
+#: ../aletheme/config.php:84
+msgid "Inner Page Title Block"
+msgstr ""
+
+#: ../aletheme/config.php:85
+msgid "Enable or disable Title Block"
+msgstr ""
+
+#: ../aletheme/config.php:95
+msgid "Banner Title"
+msgstr ""
+
+#: ../aletheme/config.php:96
+msgid "Add your Page hero title"
+msgstr ""
+
+#: ../aletheme/config.php:101
+msgid "Banner Image"
+msgstr ""
+
+#: ../aletheme/config.php:102
+msgid "Upload a Page header image"
+msgstr ""
+
+#: ../aletheme/config.php:109
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../aletheme/config.php:110
+msgid "Enable or disable Breadcrumbs"
+msgstr ""
+
+#: ../aletheme/config.php:132
+msgid "Single Page Title"
+msgstr ""
+
+#: ../aletheme/config.php:133
+msgid "Insert the title for single project page."
+msgstr ""
+
+#: ../aletheme/config.php:150
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:154
+msgid "Subtitle"
+msgstr ""
+
+#: ../aletheme/config.php:151
+msgid "Insert the menu products subtitle."
+msgstr ""
+
+#: ../aletheme/config.php:156
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:113
+msgid "Price"
+msgstr ""
+
+#: ../aletheme/config.php:157
+msgid "Insert the menu products price."
+msgstr ""
+
+#: ../aletheme/config.php:166
+msgid "Video Format Options"
+msgstr ""
+
+#: ../aletheme/config.php:173
+msgid "MP4 or WEBM File URL"
+msgstr ""
+
+#: ../aletheme/config.php:175
+msgid ""
+"Note: Upload a Featured Image to use it as a placeholder/poster image for "
+"the video."
+msgstr ""
+
+#: ../aletheme/config.php:180
+msgid "YouTube or Vimeo URL"
+msgstr ""
+
+#: ../aletheme/config.php:182
+msgid ""
+"Provide and paste a correct url to the video at vimeo or youtube. Do not "
+"include the embed code as the theme will generate the embed code "
+"automatically."
+msgstr ""
+
+#: ../aletheme/config.php:187
+msgid "Video in Listing Page"
+msgstr ""
+
+#: ../aletheme/config.php:188
+msgid "Usage of the Video in Listing Pages"
+msgstr ""
+
+#: ../aletheme/config.php:193
+msgid "Display the Featured Image"
+msgstr ""
+
+#: ../aletheme/config.php:194
+msgid "Display the Video"
+msgstr ""
+
+#: ../aletheme/config.php:203
+msgid "Audio Format Options"
+msgstr ""
+
+#: ../aletheme/config.php:210
+msgid "MP3 File URL"
+msgstr ""
+
+#: ../aletheme/config.php:216
+msgid "OGG File URL"
+msgstr ""
+
+#: ../aletheme/config.php:222
+msgid "Audio Player in Listing Pages"
+msgstr ""
+
+#: ../aletheme/config.php:223
+msgid "Usage of the Audio in Listing Pages"
+msgstr ""
+
+#: ../aletheme/config.php:228
+msgid "Display"
+msgstr ""
+
+#: ../aletheme/config.php:229
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:39
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:199
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:307
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:259
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:367
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:475
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:174
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:283
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:214
+#: ../aletheme/elementor/shortcodes/ale-image.php:307
+#: ../aletheme/elementor/shortcodes/ale-image.php:415
+#: ../aletheme/elementor/shortcodes/ale-image.php:523
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:223
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:340
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:144
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:174
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:282
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:390
+#: ../aletheme/elementor/shortcodes/ale-stats.php:66
+#: ../aletheme/elementor/shortcodes/ale-team.php:250
+#: ../aletheme/elementor/shortcodes/ale-team.php:357
+#: ../aletheme/elementor/shortcodes/ale-video.php:307
+#: ../aletheme/elementor/shortcodes/ale-video.php:321
+#: ../aletheme/elementor/shortcodes/ale-video.php:347
+#: ../aletheme/elementor/shortcodes/ale-video.php:402
+#: ../aletheme/elementor/shortcodes/ale-video.php:416
+#: ../aletheme/elementor/shortcodes/ale-video.php:430
+#: ../aletheme/elementor/shortcodes/ale-video.php:444
+#: ../aletheme/etc/media.php:14 ../aletheme/functions/theme_options.php:1200
+#: ../aletheme/functions/theme_options.php:1230
+#: ../aletheme/functions/theme_options.php:1242
+#: ../aletheme/functions/theme_options.php:1266
+#: ../aletheme/functions/theme_options.php:1343
+#: ../aletheme/functions/theme_options.php:1355
+#: ../aletheme/functions/theme_options.php:1367
+#: ../aletheme/functions/theme_options.php:1379
+#: ../aletheme/functions/theme_options.php:1391
+#: ../aletheme/functions/theme_options.php:1403
+msgid "Hide"
+msgstr ""
+
+#: ../aletheme/config.php:238
+msgid "Quote Format Options"
+msgstr ""
+
+#: ../aletheme/config.php:245
+msgid "Insert Text for Quotes"
+msgstr ""
+
+#: ../aletheme/config.php:255
+msgid "Link Format Options"
+msgstr ""
+
+#: ../aletheme/config.php:262
+msgid "External Link"
+msgstr ""
+
+#: ../aletheme/config.php:264
+msgid ""
+"Link the Post to any valid (external) URL. Use a full and correct URL f.e.: "
+"(http://yourwebsite.com/yourlink)"
+msgstr ""
+
+#: ../aletheme/elementor/elementor.php:51
+msgid "Elli"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-bg-parallax.php:14
+#: ../aletheme/elementor/shortcodes/ale-bg-parallax.php:30
+msgid "Elli Background Parallax"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-bg-parallax.php:37
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:144
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:171
+#: ../aletheme/elementor/shortcodes/ale-image.php:122
+#: ../aletheme/elementor/shortcodes/ale-woocommerce-masonry.php:59
+msgid "Choose Image"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-bg-parallax.php:48
+#: ../aletheme/elementor/shortcodes/ale-list.php:300
+#: ../aletheme/functions/theme_options/typography/field_typography.php:441
+msgid "Height"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:16
+msgid "Elli Blog List"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:33
+#: ../aletheme/elementor/shortcodes/ale-sidebar.php:32
+msgid "No sidebars were found"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:43
+#: ../aletheme/elementor/shortcodes/ale-sidebar.php:47
+msgid "Sidebar"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:50
+#: ../aletheme/elementor/shortcodes/ale-gallery.php:39
+#: ../aletheme/elementor/shortcodes/ale-heading.php:36
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:36
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:36
+#: ../aletheme/elementor/shortcodes/ale-partners.php:36
+#: ../aletheme/elementor/shortcodes/ale-team.php:36
+msgid "Choose Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:53
+#: ../aletheme/functions/theme_options.php:1316
+#: ../aletheme/functions/theme_options.php:1329
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:54
+#: ../aletheme/functions/theme_options.php:1317
+#: ../aletheme/functions/theme_options.php:1330
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:55
+#: ../aletheme/functions/theme_options.php:1318
+#: ../aletheme/functions/theme_options.php:1328
+msgid "No Sidebar"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:63
+msgid "Post Count"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:65
+#: ../aletheme/elementor/shortcodes/ale-gallery.php:58
+msgid "6"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:73
+msgid "Display Excerpt"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:75
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:170
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:182
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:194
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:206
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:218
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:230
+msgid "ON"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:76
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:171
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:183
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:195
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:207
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:219
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:231
+msgid "OFF"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:85
+msgid "Customize the excerpt length. Leave blank for the default value."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:86
+msgid "Excerpt Length"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:88
+msgid "120"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:96
+#: ../aletheme/elementor/shortcodes/ale-sidebar.php:34
+#: ../aletheme/elementor/shortcodes/ale-sidebar.php:52
+msgid "Choose Sidebar"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:108
+msgid "Number of Columns for Grid Layout"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:111
+msgid "2"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:112
+msgid "3"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:124
+msgid "Pagination Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:127
+#: ../aletheme/functions/load-more-btn-blog.php:16
+#: ../aletheme/functions/load-more-btn-woo.php:11
+#: ../aletheme/functions/load-more-btn.php:17
+msgid "Load More"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:128
+msgid "Classic Pagination"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:137
+#: ../aletheme/functions/theme_options.php:1297
+msgid "Default List Order By"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:138
+msgid "Default sorts the posts by this parameter"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:141
+#: ../aletheme/functions/theme_options.php:1301
+msgid "Date"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:142
+#: ../aletheme/functions/general.php:457
+#: ../aletheme/functions/theme_options.php:1302
+msgid "Author"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:143
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:192
+#: ../aletheme/elementor/shortcodes/ale-heading.php:119
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:80
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:491
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:125
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:71
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:120
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:187
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:291
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:58
+#: ../aletheme/elementor/shortcodes/ale-stats.php:45
+#: ../aletheme/elementor/shortcodes/ale-stats.php:54
+#: ../aletheme/elementor/shortcodes/ale-stats.php:77
+#: ../aletheme/functions/theme_options.php:1303
+msgid "Title"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:144
+#: ../aletheme/functions/theme_options.php:1304
+msgid "Modified"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:145
+#: ../aletheme/functions/tgm.php:2634
+#: ../aletheme/functions/theme_options.php:1305
+msgid "Type"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:154
+#: ../aletheme/functions/theme_options.php:1285
+msgid "Default Layout Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:155
+msgid "Default Layout the posts by this parameter"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:158
+#: ../aletheme/elementor/shortcodes/ale-list.php:50
+#: ../aletheme/elementor/shortcodes/ale-list.php:167
+#: ../aletheme/functions/theme_options.php:1289
+msgid "List"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:159
+#: ../aletheme/functions/theme_options.php:1290
+msgid "Grid"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:168
+msgid "Display Image / Media"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:180
+#: ../aletheme/functions/theme_options.php:1350
+msgid "Display Category"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:192
+#: ../aletheme/functions/theme_options.php:1362
+msgid "Display Separator Line"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:204
+msgid "Display Post Author"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:216
+msgid "Display Comment Numbers"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-blog-list.php:228
+msgid "Display Likes Number"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:14
+#: ../aletheme/elementor/shortcodes/ale-button.php:30
+msgid "Elli Button"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:37
+msgid "Button Size"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:41
+msgid "Classic Small Button"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:42
+msgid "Classic Large button"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:43
+msgid "Small Button Style 2"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:44
+msgid "Button With Arrow"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:53
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:212
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:129
+msgid "Primary Button"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:56
+#: ../aletheme/elementor/shortcodes/ale-button.php:57
+msgid "See more "
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:64
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:223
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:143
+#: ../aletheme/elementor/shortcodes/ale-list.php:125
+#: ../aletheme/elementor/shortcodes/ale-partners.php:61
+#: ../aletheme/elementor/shortcodes/ale-partners.php:151
+#: ../aletheme/elementor/shortcodes/ale-video.php:126
+#: ../aletheme/elementor/shortcodes/ale-video.php:147
+#: ../aletheme/elementor/shortcodes/ale-video.php:168
+msgid "Link"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:66
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:225
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:145
+#: ../aletheme/elementor/shortcodes/ale-partners.php:63
+#: ../aletheme/elementor/shortcodes/ale-partners.php:154
+msgid "http://your-link.com"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:76
+#: ../aletheme/elementor/shortcodes/ale-heading.php:93
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:100
+#: ../aletheme/elementor/shortcodes/ale-image.php:181
+#: ../aletheme/elementor/shortcodes/ale-image.php:894
+#: ../aletheme/elementor/shortcodes/ale-list.php:199
+#: ../aletheme/elementor/shortcodes/ale-partners.php:102
+#: ../aletheme/elementor/shortcodes/ale-skills.php:35
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:187
+#: ../aletheme/elementor/shortcodes/ale-team.php:84
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:155
+msgid "Alignment"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:80
+#: ../aletheme/elementor/shortcodes/ale-heading.php:98
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:105
+#: ../aletheme/elementor/shortcodes/ale-image.php:185
+#: ../aletheme/elementor/shortcodes/ale-image.php:898
+#: ../aletheme/elementor/shortcodes/ale-list.php:203
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:52
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:79
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:173
+#: ../aletheme/elementor/shortcodes/ale-partners.php:107
+#: ../aletheme/elementor/shortcodes/ale-sidebar.php:65
+#: ../aletheme/elementor/shortcodes/ale-skills.php:40
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:192
+#: ../aletheme/elementor/shortcodes/ale-team.php:89
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:159
+msgid "Left"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:84
+#: ../aletheme/elementor/shortcodes/ale-heading.php:102
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:109
+#: ../aletheme/elementor/shortcodes/ale-image.php:189
+#: ../aletheme/elementor/shortcodes/ale-image.php:902
+#: ../aletheme/elementor/shortcodes/ale-list.php:207
+#: ../aletheme/elementor/shortcodes/ale-partners.php:111
+#: ../aletheme/elementor/shortcodes/ale-sidebar.php:69
+#: ../aletheme/elementor/shortcodes/ale-skills.php:44
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:196
+#: ../aletheme/elementor/shortcodes/ale-team.php:93
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:163
+#: ../aletheme/elementor/shortcodes/ale-video.php:604
+msgid "Center"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:88
+#: ../aletheme/elementor/shortcodes/ale-heading.php:106
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:113
+#: ../aletheme/elementor/shortcodes/ale-image.php:193
+#: ../aletheme/elementor/shortcodes/ale-image.php:906
+#: ../aletheme/elementor/shortcodes/ale-list.php:211
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:53
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:84
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:178
+#: ../aletheme/elementor/shortcodes/ale-partners.php:115
+#: ../aletheme/elementor/shortcodes/ale-sidebar.php:73
+#: ../aletheme/elementor/shortcodes/ale-skills.php:48
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:200
+#: ../aletheme/elementor/shortcodes/ale-team.php:97
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:167
+msgid "Right"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:103
+msgid "Button Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:111
+msgid "Button Label Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:125
+msgid "Button Label Hover Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:142
+msgid "Border Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:153
+msgid "Button Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-button.php:167
+msgid "Button Hover Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:14
+msgid "Elli Background"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:29
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:465
+#: ../aletheme/elementor/shortcodes/ale-image.php:513
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:380
+#: ../aletheme/elementor/shortcodes/ale-video.php:547
+msgid "Background Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:36
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:472
+#: ../aletheme/elementor/shortcodes/ale-image.php:520
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:387
+msgid "Show / Background Color Section"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:38
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:198
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:306
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:258
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:366
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:474
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:173
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:282
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:213
+#: ../aletheme/elementor/shortcodes/ale-image.php:306
+#: ../aletheme/elementor/shortcodes/ale-image.php:414
+#: ../aletheme/elementor/shortcodes/ale-image.php:522
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:222
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:339
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:143
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:173
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:281
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:389
+#: ../aletheme/elementor/shortcodes/ale-stats.php:65
+#: ../aletheme/elementor/shortcodes/ale-team.php:249
+#: ../aletheme/elementor/shortcodes/ale-team.php:356
+#: ../aletheme/elementor/shortcodes/ale-video.php:308
+#: ../aletheme/elementor/shortcodes/ale-video.php:322
+#: ../aletheme/elementor/shortcodes/ale-video.php:348
+#: ../aletheme/elementor/shortcodes/ale-video.php:403
+#: ../aletheme/elementor/shortcodes/ale-video.php:417
+#: ../aletheme/elementor/shortcodes/ale-video.php:431
+#: ../aletheme/elementor/shortcodes/ale-video.php:445
+#: ../aletheme/functions/theme_options.php:1199
+#: ../aletheme/functions/theme_options.php:1229
+#: ../aletheme/functions/theme_options.php:1241
+#: ../aletheme/functions/theme_options.php:1265
+#: ../aletheme/functions/theme_options.php:1342
+#: ../aletheme/functions/theme_options.php:1354
+#: ../aletheme/functions/theme_options.php:1366
+#: ../aletheme/functions/theme_options.php:1378
+#: ../aletheme/functions/theme_options.php:1390
+#: ../aletheme/functions/theme_options.php:1402
+msgid "Show"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:49
+#: ../aletheme/elementor/shortcodes/ale-image.php:533
+msgid "Background Section Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:69
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:509
+#: ../aletheme/elementor/shortcodes/ale-image.php:553
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:424
+msgid "Background Height"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:90
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:485
+#: ../aletheme/elementor/shortcodes/ale-image.php:574
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:400
+msgid "Background Width"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:111
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:533
+#: ../aletheme/elementor/shortcodes/ale-image.php:595
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:448
+msgid "Background Top Position"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:130
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:552
+#: ../aletheme/elementor/shortcodes/ale-image.php:614
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:467
+msgid "Background Left Position"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:149
+#: ../aletheme/elementor/shortcodes/ale-image.php:633
+msgid "Background Right Position"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:168
+#: ../aletheme/elementor/shortcodes/ale-image.php:652
+msgid "Background Bottom Position"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:189
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:249
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:161
+#: ../aletheme/elementor/shortcodes/ale-image.php:297
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:164
+#: ../aletheme/elementor/shortcodes/ale-team.php:240
+msgid "Left Dots Background"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:196
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:256
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:171
+#: ../aletheme/elementor/shortcodes/ale-image.php:304
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:171
+#: ../aletheme/elementor/shortcodes/ale-team.php:247
+msgid "Show / Hide Left Dots Background"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:209
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:269
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:183
+#: ../aletheme/elementor/shortcodes/ale-image.php:317
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:184
+#: ../aletheme/elementor/shortcodes/ale-team.php:260
+msgid "Left Dots Width"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:233
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:341
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:293
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:401
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:207
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:316
+#: ../aletheme/elementor/shortcodes/ale-image.php:341
+#: ../aletheme/elementor/shortcodes/ale-image.php:449
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:208
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:316
+#: ../aletheme/elementor/shortcodes/ale-team.php:284
+#: ../aletheme/elementor/shortcodes/ale-team.php:391
+msgid "Dots Height"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:257
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:365
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:317
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:425
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:231
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:340
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:269
+#: ../aletheme/elementor/shortcodes/ale-image.php:365
+#: ../aletheme/elementor/shortcodes/ale-image.php:473
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:262
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:398
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:199
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:232
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:340
+#: ../aletheme/elementor/shortcodes/ale-team.php:308
+#: ../aletheme/elementor/shortcodes/ale-team.php:415
+msgid "Dots Background Position"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:276
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:384
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:336
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:444
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:250
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:359
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:251
+#: ../aletheme/elementor/shortcodes/ale-image.php:384
+#: ../aletheme/elementor/shortcodes/ale-image.php:492
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:249
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:380
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:181
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:251
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:359
+#: ../aletheme/elementor/shortcodes/ale-team.php:327
+#: ../aletheme/elementor/shortcodes/ale-team.php:434
+msgid "Dots Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:297
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:357
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:270
+#: ../aletheme/elementor/shortcodes/ale-image.php:405
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:272
+#: ../aletheme/elementor/shortcodes/ale-team.php:347
+msgid "Right Dots Background"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:304
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:364
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:280
+#: ../aletheme/elementor/shortcodes/ale-image.php:412
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:279
+#: ../aletheme/elementor/shortcodes/ale-team.php:354
+msgid "Show / Hide Right Dots Background"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-dot-bg.php:317
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:377
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:292
+#: ../aletheme/elementor/shortcodes/ale-image.php:425
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:292
+#: ../aletheme/elementor/shortcodes/ale-team.php:367
+msgid "Dots Width"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-gallery.php:16
+msgid "Elli Gallery"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-gallery.php:32
+msgid "Gallery"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-gallery.php:41
+msgid "Two Columns 1."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-gallery.php:42
+msgid "Two Columns 2."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-gallery.php:43
+msgid "Two Columns 3."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-gallery.php:44
+msgid "Two Columns 4."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-gallery.php:45
+msgid "Three Columns 1."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-gallery.php:46
+msgid "Three Columns 2."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-gallery.php:47
+msgid "Three Columns 3."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-gallery.php:48
+msgid "Three Columns 4."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-gallery.php:56
+msgid "Post count"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-gallery.php:86
+#: ../archive-projects.php:17
+msgid "All"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-google-maps.php:14
+msgid "Elli Google Maps"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-google-maps.php:39
+#, php-format
+msgid ""
+"%1$sPlease note:%2$s Google Maps require an API key that provided by Google. "
+"Enter the key to the field inside the %1$sTheme Options > Google Maps%2$s. "
+"If you have not created an API key yet, refer the online documentation of "
+"the theme to learn how to create one."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-google-maps.php:98
+#, php-format
+msgid ""
+"Please check this %1$sdocumentation%2$s to learn how to find the latitude "
+"and the longitude values of a place."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:42
+msgid "Elli Header Slider"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:101
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:388
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:37
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:145
+#: ../aletheme/elementor/shortcodes/ale-image.php:101
+#: ../aletheme/elementor/shortcodes/ale-image.php:673
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:127
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:49
+#: ../aletheme/elementor/shortcodes/ale-partners.php:142
+msgid "Image"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:108
+msgid "Header Slider"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:112
+msgid "Slider Style 1"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:113
+msgid "Slider Style 2"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:121
+msgid "Slider Height"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:155
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:235
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:44
+#: ../aletheme/elementor/shortcodes/ale-partners.php:134
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:152
+msgid "Repeater List"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:182
+#: ../aletheme/elementor/shortcodes/ale-heading.php:53
+#: ../aletheme/elementor/shortcodes/ale-heading.php:174
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:35
+msgid "Sub Title"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:185
+msgid "Type your sub title here"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:195
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:205
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:61
+msgid "Type your title here"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:202
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:92
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:554
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:60
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:83
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:242
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:194
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:66
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:83
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:131
+#: ../aletheme/elementor/shortcodes/ale-team.php:63
+msgid "Description"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:215
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:216
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:132
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:133
+msgid "Learn more "
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:573
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:488
+msgid "Header Slider Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-header-slider.php:581
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:496
+msgid "Slider Margin"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:15
+#: ../aletheme/elementor/shortcodes/ale-heading.php:29
+msgid "Elli Heading"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:39
+msgid "H1"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:40
+msgid "H2"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:41
+msgid "H3"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:42
+msgid "H4"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:43
+msgid "H5"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:44
+msgid "Long Heading"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:56
+msgid "Put here short title"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:57
+msgid "Add a short title here"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:66
+#: ../aletheme/elementor/shortcodes/ale-heading.php:79
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:43
+msgid "Heading Title"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:69
+#: ../aletheme/elementor/shortcodes/ale-heading.php:82
+msgid "Add title here"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:70
+#: ../aletheme/elementor/shortcodes/ale-heading.php:83
+msgid "Add a title here"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:126
+msgid "Title color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:137
+#: ../aletheme/elementor/shortcodes/ale-heading.php:201
+#: ../aletheme/elementor/shortcodes/ale-heading.php:241
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:400
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:522
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:100
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:313
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:88
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:130
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:171
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:217
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:259
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:100
+#: ../aletheme/elementor/shortcodes/ale-skills.php:116
+#: ../aletheme/elementor/shortcodes/ale-team.php:480
+#: ../aletheme/elementor/shortcodes/ale-team.php:530
+#: ../aletheme/elementor/shortcodes/ale-team.php:592
+#: ../aletheme/elementor/shortcodes/ale-team.php:626
+msgid "Margin Bottom"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:184
+#: ../aletheme/elementor/shortcodes/ale-list.php:329
+#: ../aletheme/elementor/shortcodes/ale-list.php:361
+#: ../aletheme/elementor/shortcodes/ale-skills.php:106
+#: ../aletheme/elementor/shortcodes/ale-skills.php:147
+#: ../aletheme/elementor/shortcodes/ale-stats.php:218
+msgid "Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:219
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:291
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:195
+#: ../aletheme/elementor/shortcodes/ale-stats.php:117
+msgid "Separator"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:227
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:299
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:203
+msgid "Separator Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-heading.php:262
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:334
+msgid "Separator Size"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:14
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:29
+msgid "Elli Image Box"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:39
+#: ../aletheme/elementor/shortcodes/ale-image.php:112
+#: ../aletheme/elementor/shortcodes/ale-list.php:40
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:39
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:40
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:113
+msgid "Style 1"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:40
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:40
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:41
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:114
+msgid "Style 2"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:41
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:41
+msgid "Style 3"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:42
+msgid "Style 4"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:50
+#: ../aletheme/elementor/shortcodes/ale-partners.php:49
+msgid "Front Image"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:66
+msgid "Number"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:69
+msgid "Add number"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:70
+msgid "1."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:83
+msgid "Add title"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:84
+msgid "Add Title"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:117
+#: ../aletheme/elementor/shortcodes/ale-image.php:910
+#: ../aletheme/elementor/shortcodes/ale-partners.php:119
+#: ../aletheme/elementor/shortcodes/ale-sidebar.php:77
+#: ../aletheme/elementor/shortcodes/ale-skills.php:52
+#: ../aletheme/elementor/shortcodes/ale-team.php:101
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:171
+msgid "Justified"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:429
+msgid "Numbers"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:440
+msgid "Numbers Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:454
+msgid "Numbers Margin Bottom"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:499
+msgid "Title Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:513
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:576
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:92
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:134
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:80
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:122
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:163
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:251
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:92
+#: ../aletheme/elementor/shortcodes/ale-stats.php:86
+#: ../aletheme/elementor/shortcodes/ale-stats.php:179
+#: ../aletheme/elementor/shortcodes/ale-team.php:472
+#: ../aletheme/elementor/shortcodes/ale-team.php:522
+#: ../aletheme/elementor/shortcodes/ale-team.php:572
+#: ../aletheme/functions/theme_options.php:729
+msgid "Typography"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:562
+#: ../aletheme/elementor/shortcodes/ale-team.php:560
+msgid "Description Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-box.php:584
+msgid "Description Margin Bottom"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:14
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:29
+msgid "Elli Image Signature"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:50
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:122
+msgid "Name"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:69
+msgid "img_sign"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:153
+msgid "Image Width"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:171
+#: ../aletheme/elementor/shortcodes/ale-stats.php:94
+#: ../aletheme/elementor/shortcodes/ale-stats.php:187
+#: ../aletheme/elementor/shortcodes/ale-stats.php:254
+msgid "Margin Right"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:195
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:318
+msgid "Background Options"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:202
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:212
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:328
+msgid "Dots Background Options"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:211
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:220
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:337
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:141
+msgid "Show Dots Background"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:223
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:231
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:352
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:153
+msgid "Dots Background Max Width"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image-sign.php:237
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:240
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:366
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:167
+msgid "Dots Background Max Height"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:42
+msgid "Elli Image"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:108
+msgid "Image Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:113
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:109
+msgid "Fade Animation Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:139
+msgid "Animation Direction"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:144
+msgid "Appear from Top"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:145
+msgid "Appear from Right"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:146
+msgid "Appear from Left"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:147
+msgid "Appear from Bottom"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:148
+msgid "Appear from Top-Left"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:149
+msgid "Appear from Top-Right"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:150
+msgid "Appear from Bottom-Left"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:151
+msgid "Appear from Bottom-Right"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:162
+msgid "Image Position"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:209
+#: ../aletheme/elementor/shortcodes/ale-image.php:883
+msgid "Caption"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:212
+#: ../aletheme/elementor/shortcodes/ale-image.php:243
+msgid "None"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:213
+msgid "Attachment Caption"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:214
+#: ../aletheme/elementor/shortcodes/ale-image.php:223
+msgid "Custom Caption"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:226
+msgid "Enter your image caption"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:239
+#: ../aletheme/elementor/shortcodes/ale-image.php:253
+msgid "Link to"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:244
+msgid "Media File"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:245
+msgid "Custom URL"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:258
+#: ../aletheme/elementor/shortcodes/ale-list.php:131
+msgid "https://your-link.com"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:269
+#: ../aletheme/elementor/shortcodes/ale-video.php:539
+msgid "Lightbox"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:273
+#: ../aletheme/elementor/shortcodes/ale-list.php:77
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:207
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:270
+msgid "Default"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:274
+#: ../aletheme/elementor/shortcodes/ale-team.php:115
+msgid "Yes"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:275
+#: ../aletheme/elementor/shortcodes/ale-team.php:116
+msgid "No"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:286
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:267
+#: ../aletheme/elementor/shortcodes/ale-video.php:456
+msgid "View"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:681
+#: ../aletheme/elementor/shortcodes/ale-list.php:282
+msgid "Width"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:716
+msgid "Max Width"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:752
+msgid "Normal"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:759
+#: ../aletheme/elementor/shortcodes/ale-image.php:793
+msgid "Opacity"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:786
+#: ../aletheme/elementor/shortcodes/ale-list.php:377
+#: ../aletheme/elementor/shortcodes/ale-list.php:438
+msgid "Hover"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:819
+msgid "Transition Duration"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:836
+msgid "Hover Animation"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:857
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:361
+msgid "Border Radius"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:924
+#: ../aletheme/elementor/shortcodes/ale-list.php:422
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:184
+msgid "Text Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-image.php:949
+msgid "Spacing"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:14
+#: ../aletheme/elementor/shortcodes/ale-list.php:29
+msgid "Elli List"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:36
+msgid "List Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:41
+msgid "Icon List"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:42
+msgid "Header List"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:58
+msgid "List Title"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:72
+msgid "Layout"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:81
+msgid "Inline"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:101
+#: ../aletheme/elementor/shortcodes/ale-list.php:411
+msgid "Text"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:104
+#: ../aletheme/elementor/shortcodes/ale-list.php:105
+msgid "List Item"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:115
+#: ../aletheme/elementor/shortcodes/ale-list.php:350
+#: ../aletheme/elementor/shortcodes/ale-stats.php:36
+#: ../aletheme/elementor/shortcodes/ale-stats.php:210
+msgid "Icon"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:143
+msgid "List Item #1"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:147
+msgid "List Item #2"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:151
+msgid "List Item #3"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:178
+msgid "Space Between"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:222
+msgid "Divider"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:224
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:135
+msgid "Off"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:225
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:136
+msgid "On"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:236
+#: ../aletheme/functions/theme_options/typography/field_typography.php:280
+msgid "Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:239
+msgid "Solid"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:240
+msgid "Double"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:241
+msgid "Dotted"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:242
+msgid "Dashed"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:258
+msgid "Weight"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:389
+#: ../aletheme/elementor/shortcodes/ale-stats.php:234
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:319
+#: ../aletheme/functions/theme_options/typography/field_typography.php:432
+msgid "Size"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-list.php:450
+msgid "Text Indent"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:14
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:29
+msgid "Elli Menu Items"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:51
+msgid "Item Price"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-item.php:59
+msgid "Item Description"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:14
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:29
+msgid "Elli Menu List"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:49
+msgid "Select Tab Position"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:61
+msgid "Menu Items Width"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:64
+msgid "Adaptive"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:65
+msgid "Full"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:75
+msgid "Menu Align"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:98
+msgid "Select the Number of Columns"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:101
+msgid "One Column"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:102
+msgid "Two Columns"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:103
+msgid "Three Columns"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:114
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:154
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:284
+msgid "Menu Items"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:136
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:201
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:298
+msgid "Select category"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:161
+#: ../aletheme/etc/media.php:156
+msgid "Gallery Images"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:169
+msgid "Gallery Align"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:211
+msgid "dots_bg_opt"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:419
+msgid "Separator Lines Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-list.php:426
+msgid "Separator lines color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:14
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:29
+msgid "Elli Menu Slider"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:36
+msgid "Choose Icon Image"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:69
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:133
+msgid "Type your description here"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:125
+msgid "Background Image Dots"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-menu-slider.php:132
+msgid "Dots Image Background Options"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-opentable.php:14
+#: ../aletheme/elementor/shortcodes/ale-opentable.php:29
+msgid "Elli Open Table"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-opentable.php:36
+msgid "Open Table Restaurand ID"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-opentable.php:38
+msgid "Need help finding your restaurant ID? - Read documentation."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-opentable.php:98
+msgid "Book a Table"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-partners.php:14
+#: ../aletheme/elementor/shortcodes/ale-partners.php:29
+msgid "Elli Partner"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-partners.php:39
+msgid "Single Partner"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-partners.php:40
+msgid "Multi Partners"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-partners.php:41
+msgid "Multi Partners 2"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-partners.php:76
+msgid "Margin Items"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:42
+msgid "Elli Quotes Slider"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:101
+msgid "Quotes"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:113
+#: ../aletheme/elementor/shortcodes/ale-team.php:55
+msgid "Position"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:115
+msgid "Type position here"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:124
+msgid "Type name here"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-quote-slider.php:140
+msgid "Choose Portrait"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-sidebar.php:14
+msgid "Elli Side Bar"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-sidebar.php:60
+msgid "elli"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-skills.php:15
+#: ../aletheme/elementor/shortcodes/ale-skills.php:29
+msgid "Elli Skills"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-skills.php:65
+msgid "Skill Value"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-skills.php:73
+msgid "Skill Title"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-skills.php:81
+msgid "Skill Description"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-skills.php:92
+msgid "Title Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-skills.php:133
+#: ../aletheme/elementor/shortcodes/ale-team.php:553
+msgid "Description Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:15
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:29
+msgid "Elli Social Links"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:36
+msgid "Social Links Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:49
+msgid "Social Links Position"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:53
+msgid "Vertical"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:54
+msgid "Horizontal"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:62
+msgid "Facebook"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:64
+msgid "https://www.facebook.com/"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:71
+msgid "Twitter"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:73
+msgid "https://www.twitter.com/"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:80
+msgid "Pinterest"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:82
+msgid "https://www.pinterest.com/"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:89
+msgid "Youtube"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:91
+msgid "https://www.youtube.com/"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:98
+msgid "Linkedin"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:100
+msgid "https://www.linkedin.com/"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:107
+msgid "Behance"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:109
+msgid "https://www.behance.net/"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:116
+msgid "Flickr"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:118
+msgid "https://www.flickr.com/"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:125
+msgid "Github"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:127
+msgid "https://github.com/"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:134
+msgid "Tumblr"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:136
+msgid "https://www.tumblr.com/"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:143
+msgid "Stumbleupon"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:145
+msgid "https://www.stumbleupon.com/"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:152
+#: ../aletheme/elementor/shortcodes/ale-video.php:116
+msgid "Vimeo"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:154
+msgid "https://vimeo.com/"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:161
+msgid "VK"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:163
+msgid "https://vk.com/"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:170
+msgid "Yelp"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:172
+msgid "https://www.yelp.com/"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:179
+msgid "Instagram"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-social-links.php:181
+msgid "http://instagram.com/"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-stats.php:15
+#: ../aletheme/elementor/shortcodes/ale-stats.php:29
+msgid "Elli Stats"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-stats.php:63
+msgid "Show Star"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-stats.php:126
+msgid "Margin Right/Left"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-stats.php:147
+msgid "Separator Width"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-stats.php:170
+msgid "Value"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:15
+#: ../aletheme/elementor/shortcodes/ale-team.php:29
+msgid "Elli Team"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:39
+msgid "Main Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:40
+msgid "Single Style 1"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:47
+msgid "Team Member"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:73
+msgid "Thumbnail Image"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:112
+msgid "Show Social"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:123
+msgid "Facebook URL"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:124
+msgid "Team member's Facebook URL."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:135
+msgid "Twitter URL"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:136
+msgid "Team member's Twitter URL."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:147
+msgid "Instagram URL"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:148
+msgid "Team member's Instagram URL."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:159
+msgid "Linkedin URL"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:160
+msgid "Team member's Linkedin URL."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:170
+msgid "Vk URL"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:171
+msgid "Team member's Vk URL."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:181
+msgid "Youtube URL"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:182
+msgid "Team member's youtube URL."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:192
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:193
+msgid "Team member's Pinterest URL."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:203
+msgid "Tumblr URL"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:204
+msgid "Team member's Tumblr URL."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:214
+msgid "behance URL"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:215
+msgid "Team member's Behance URL."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:226
+msgid "Yelp URL"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:227
+msgid "Team member's Yelp URL."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:453
+msgid "Name Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:460
+msgid "Name Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:503
+msgid "Position Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:510
+msgid "Position Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:580
+msgid "Description Padding"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:615
+msgid "Separator Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-team.php:648
+msgid "Width "
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:43
+msgid "Elli Text Editor"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:102
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:147
+msgid "Text Editor"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:127
+msgid ""
+"Click edit button to change this text. Lorem ipsum dolor sit amet, "
+"consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, "
+"pulvinar dapibus leo."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:133
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:256
+msgid "Drop Cap"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:212
+msgid "Columns"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:225
+msgid "Columns Gap"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:271
+msgid "Stacked"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:272
+msgid "Framed"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:285
+msgid "Primary Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:304
+msgid "Secondary Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:341
+msgid "Space"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-text-editor.php:380
+msgid "Border Width"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:44
+msgid "Elli Video"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:104
+#: ../aletheme/elementor/shortcodes/ale-video.php:511
+msgid "Video"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:111
+#: ../aletheme/functions/tgm.php:2633
+msgid "Source"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:115
+msgid "YouTube"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:117
+msgid "Dailymotion"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:118
+msgid "Self Hosted"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:135
+#: ../aletheme/elementor/shortcodes/ale-video.php:156
+#: ../aletheme/elementor/shortcodes/ale-video.php:177
+#: ../aletheme/elementor/shortcodes/ale-video.php:233
+msgid "Enter your URL"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:189
+msgid "External URL"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:200
+msgid "Choose File"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:219
+msgid "URL"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:244
+msgid "Start Time"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:246
+msgid "Specify a start time (in seconds)"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:256
+msgid "End Time"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:258
+msgid "Specify an end time (in seconds)"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:269
+msgid "Video Options"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:278
+msgid "Autoplay"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:286
+msgid "Mute"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:294
+msgid "Loop"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:305
+msgid "Player Controls"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:319
+msgid "Video Info"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:333
+msgid "Modest Branding"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:345
+msgid "Logo"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:359
+msgid "Controls Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:372
+msgid "Privacy Mode"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:374
+msgid ""
+"When you turn on privacy mode, YouTube won't store information about "
+"visitors on your website unless they play the video."
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:384
+msgid "Suggested Videos"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:387
+msgid "Current Video Channel"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:388
+msgid "Any Video"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:400
+msgid "Intro Title"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:414
+msgid "Intro Portrait"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:428
+msgid "Intro Byline"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:442
+msgid "Download Button"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:467
+msgid "Color Style"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:474
+msgid "Icon and Title Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:486
+msgid "Bottom Line Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:496
+msgid "Icon and Title Hover Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:519
+msgid "Aspect Ratio"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:558
+msgid "UI Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:569
+msgid "UI Hover Color"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:581
+msgid "Content Width"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:600
+msgid "Content Position"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:605
+msgid "Top"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-video.php:619
+msgid "Entrance Animation"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-woocommerce-list.php:14
+msgid "Elli Woocommerce Products"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-woocommerce-masonry.php:14
+msgid "Elli Woocommerce Masonry"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-woocommerce-masonry.php:29
+msgid "Elli Products"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-woocommerce-masonry.php:35
+msgid "Product count"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-woocommerce-masonry.php:50
+msgid "Select Product"
+msgstr ""
+
+#: ../aletheme/elementor/shortcodes/ale-woocommerce-masonry.php:71
+msgid "Product List"
+msgstr ""
+
+#: ../aletheme/etc/admin.php:40
+msgid "Installing plugin"
+msgstr ""
+
+#: ../aletheme/etc/admin.php:41
+msgid "Activating plugin"
+msgstr ""
+
+#: ../aletheme/etc/admin.php:42
+msgid "Try again"
+msgstr ""
+
+#: ../aletheme/etc/admin.php:45
+msgid "Failed to activate."
+msgstr ""
+
+#: ../aletheme/etc/admin.php:46 ../aletheme/functions/tgm.php:2406
+msgid "Active"
+msgstr ""
+
+#: ../aletheme/etc/admin.php:47
+msgid "Failed."
+msgstr ""
+
+#: ../aletheme/etc/admin.php:48
+msgid ""
+"The plugin failed to activate. Please try to increase the memory_limit on "
+"your server."
+msgstr ""
+
+#: ../aletheme/etc/admin.php:49
+msgid ""
+"There was a problem during the importing process resulting in the following "
+"error from your server:"
+msgstr ""
+
+#: ../aletheme/etc/admin.php:50
+msgid "Install required plugins first."
+msgstr ""
+
+#: ../aletheme/etc/admin.php:265
+#, php-format
+msgid ""
+"The plugin failed to install. Please check the permissions for the \"plugins"
+"\" directory or <a href=\"%s\" target=\"_blank\">download</a> the plugin and "
+"install it manually."
+msgstr ""
+
+#: ../aletheme/etc/front.php:128
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../aletheme/etc/front.php:132
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../aletheme/etc/media.php:201 ../aletheme/etc/media.php:208
+msgid "Add Image"
+msgstr ""
+
+#: ../aletheme/etc/media.php:201 ../aletheme/etc/media.php:208
+msgid "Upload Images"
+msgstr ""
+
+#: ../aletheme/etc/media.php:201
+msgid "Manage Gallery"
+msgstr ""
+
+#: ../aletheme/etc/system.php:36
+msgid "Header Menu"
+msgstr ""
+
+#: ../aletheme/etc/system.php:37
+msgid "Sticky Left Menu"
+msgstr ""
+
+#: ../aletheme/etc/system.php:40
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../aletheme/functions/general.php:453
+msgid "Home"
+msgstr ""
+
+#: ../aletheme/functions/general.php:454
+msgid "Archive"
+msgstr ""
+
+#: ../aletheme/functions/general.php:455
+msgid "Search results"
+msgstr ""
+
+#: ../aletheme/functions/general.php:456
+msgid "Tag"
+msgstr ""
+
+#: ../aletheme/functions/general.php:458
+msgid "Error 404"
+msgstr ""
+
+#: ../aletheme/functions/general.php:483
+msgid "Blog"
+msgstr ""
+
+#: ../aletheme/functions/general.php:591
+msgid "Page"
+msgstr ""
+
+#: ../aletheme/functions/general.php:865
+msgid "0"
+msgstr ""
+
+#: ../aletheme/functions/general.php:1260
+#: ../aletheme/functions/general.php:1262
+msgid "I like this article"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:393 ../aletheme/functions/tgm.php:912
+#: ../aletheme/functions/tgm.php:2618 ../aletheme/functions/tgm.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:394 ../aletheme/functions/tgm.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:395 ../aletheme/functions/tgm.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aletheme/functions/tgm.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:608
+msgid "Update Required"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:1019 ../aletheme/functions/tgm.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2358
+msgid "Required"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2380
+msgid "External Source"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aletheme/functions/tgm.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aletheme/functions/tgm.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../aletheme/functions/tgm.php:2567
+msgid "unknown"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2638
+msgid "Version"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2639
+msgid "Status"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2802
+msgid "Install"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2808
+msgid "Update"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2811
+msgid "Activate"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:3594 ../aletheme/functions/tgm.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:3594 ../aletheme/functions/tgm.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../aletheme/functions/tgm.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:31
+#: ../aletheme/functions/theme_options.php:32
+msgid "Theme Options"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:132
+msgid "General"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:133
+msgid "General Settings"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:140
+msgid "Logo image"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:141
+#: ../aletheme/functions/theme_options.php:515
+msgid "Upload the logo image. "
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:147
+msgid "Preload Logo image"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:148
+msgid "Upload the logo image to display in preload. "
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:154
+msgid "Share Options"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:155
+msgid ""
+"Choose socials for sharing. Displayed for a single post and product page."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:183
+#: ../aletheme/functions/theme_options.php:184
+msgid "Header Settings"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:191
+msgid "Theme Navigation"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:192
+msgid "Choose Type of Navigation"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:194
+msgid "Full Width Navigation"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:195
+msgid "Boxed Navigation"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:203
+msgid "Innher Header Breadcrumbs"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:204
+msgid "Show or Hide Breadcrumbs on Inner Header."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:212
+msgid "Header Page Background Height"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:213
+msgid "Insert the background height for page's header. (default: 312px)"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:226
+msgid "Header Pages Background Color"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:227
+msgid "Pick a background color for the header. (default: #f8f7f5)"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:239
+msgid "Header Page Dots Size."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:240
+msgid "Insert the size for dots section in page's header. (default: 479x96)"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:253
+msgid "Background Dots Position"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:263
+msgid "Set the position and units for dots background section."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:275
+msgid "Header Images"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:276
+msgid "With the \"section\" field you can create indent option sections."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:284
+msgid "Main Header Image. (Right Position)"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:285
+msgid "Upload the image #1."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:299
+msgid "Position for Image #1"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:300
+msgid "Set the position and units for image #1."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:314
+msgid "Size for Image #1"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:315
+msgid "Set the size for image #1. (default: 367)"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:325
+msgid "Switch Animation for Image #1 (On / Off)"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:326
+msgid "Enable or disable header animation for image #1."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:335
+msgid "Image Animation Direction #1"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:336
+#: ../aletheme/functions/theme_options.php:412
+#: ../aletheme/functions/theme_options.php:479
+msgid "No validation can be done on this field type"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:356
+msgid "Header Page Image #2"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:357
+msgid "Upload the image #2."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:371
+msgid "Position for Image #2"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:372
+msgid "Set the position and units for image #2."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:389
+msgid "Size for Image #2"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:390
+msgid "Set the size for image #2. (default: 52)"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:401
+msgid "Switch Animation for Image #2 (On / Off)"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:402
+msgid "Enable or disable header animation for image #2."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:411
+msgid "Image Animation Direction #2"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:431
+msgid "Header Page Image #3"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:432
+msgid "Upload the image #3."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:446
+msgid "Position for Image #3"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:447
+msgid "Set the position and units for image #3."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:459
+msgid "Size for Image #3"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:460
+msgid "Set the size for image #3."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:467
+msgid "Switch Animation for Image #3 (On / Off)"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:468
+msgid "Enable or disable header animation for image #3."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:478
+msgid "Image Animation Direction #3"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:507
+msgid "Footer Settings"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:514
+msgid "Footer Logo image"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:521
+msgid "Footer Left-Bottom Dots"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:529
+msgid "Footer Page Dots Size #1"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:530
+msgid "Insert the size for dots section in page's footer. (default: 108x267)"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:543
+msgid "Background Dots Position #1"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:553
+#: ../aletheme/functions/theme_options.php:596
+msgid "Set the position and units for footer dots background section."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:564
+msgid "Footer Right Dots"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:572
+msgid "Footer Page Dots Size #2"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:573
+msgid "Insert the size for dots section in page's footer. (default: 230x63)"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:586
+msgid "Background Dots Position #2"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:608
+msgid "Social Profiles"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:609
+msgid "Insert the social profiles"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:615
+msgid "Facebook Profile"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:616
+msgid "Insert the facebook link profile."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:623
+msgid "Twitter Profile"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:624
+msgid "Insert the twitter link profile."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:631
+msgid "Pinterest Profile"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:632
+msgid "Insert the pinterest link profile."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:639
+msgid "Youtube Profile"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:640
+msgid "Insert the youtube link profile."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:647
+msgid "Linkedin Profile"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:648
+msgid "Insert the linkedin link profile."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:655
+msgid "Behance Profile"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:656
+msgid "Insert the behance link profile."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:663
+msgid "Flickr Profile"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:664
+msgid "Insert the flickr link profile."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:671
+msgid "Github Profile"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:672
+msgid "Insert the github link profile."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:679
+msgid "Stumbleupon Profile"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:680
+msgid "Insert the stumbleupon link profile."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:687
+msgid "Tumblr Profile"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:688
+msgid "Insert the tumblr link profile."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:695
+msgid "Vimeo Profile"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:696
+msgid "Insert the vimeo link profile."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:703
+msgid "VK Profile"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:704
+msgid "Insert the vk link profile."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:711
+msgid "Yelp Profile"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:712
+msgid "Insert the yelp link profile."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:719
+msgid "Instagram Profile"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:720
+msgid "Insert the instagram link profile."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:730
+msgid "Typography Settings"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:737
+msgid "Body Font"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:738
+msgid "Specify the body font properties."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:739
+msgid "Insert the font for body."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:763
+msgid "Typography h1"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:776
+#: ../aletheme/functions/theme_options.php:803
+#: ../aletheme/functions/theme_options.php:829
+#: ../aletheme/functions/theme_options.php:855
+#: ../aletheme/functions/theme_options.php:880
+#: ../aletheme/functions/theme_options.php:906
+#: ../aletheme/functions/theme_options.php:933
+#: ../aletheme/functions/theme_options.php:959
+#: ../aletheme/functions/theme_options.php:985
+#: ../aletheme/functions/theme_options.php:1011
+#: ../aletheme/functions/theme_options.php:1037
+#: ../aletheme/functions/theme_options.php:1064
+msgid "Typography option with each property can be called individually."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:790
+msgid "Typography h2"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:816
+msgid "Typography h3"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:842
+msgid "Typography h4"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:868
+msgid "Typography h5"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:893
+msgid "Typography h6"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:921
+msgid "Header Subtitle"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:946
+msgid "Menu Navigations"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:973
+msgid "Inputs and Textarea"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:999
+msgid "Blockquotes"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1025
+msgid "Buttons"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1050
+msgid "Skills Value"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1077
+msgid "Header Text Font"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1078
+msgid "Specify the headers font properties."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1102
+msgid "Google Maps"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1103
+msgid "Google Maps Settings"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1110
+msgid "Google API Key"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1111
+msgid ""
+"Enter your Google API key. Refer online documentation of the theme to learn "
+"how to get your API key."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1117
+msgid "Google Map Marker Color"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1118
+msgid "Insert the color for google maps markers."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1125
+msgid "Google Map Marker Stroke Color"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1126
+msgid "Insert the stroke color for google maps markers."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1135
+msgid "Elli Woocommerce"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1136
+msgid "Woocommerce settings"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1146
+msgid "Products per page on the store page."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1147
+msgid "Insert а number to display products per page on the store page."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1152
+msgid "Sidebar position on the shop page."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1153
+msgid "Select the position of the sidebar on the shop page"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1163
+msgid "Shop columns"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1164
+msgid "Select the number of columns."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1178
+msgid "No pages were found"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1187
+msgid "Project Pages"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1188
+msgid "Project Pages Settings"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1195
+msgid "Header on Single Project Pages"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1196
+msgid "Show or Hide Inner Header on Single Project Pages."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1207
+msgid "Project Main Page"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1208
+msgid "Select the Project Main Page."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1216
+#: ../aletheme/functions/theme_options.php:1217
+msgid "Blog and Archive Settings"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1225
+msgid "Header on Single Blog Pages"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1226
+msgid "Show or Hide Inner Header on Single Blog Pages."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1237
+msgid "Display Excerpt on Archive Pages"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1238
+msgid "Show or Hide Excerpt on Archive Pages."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1249
+msgid "Excerpt Length on Archive Pages"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1250
+msgid ""
+"Customize the excerpt length on Archive Pages. Leave blank for the default "
+"value."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1261
+msgid "Display Excerpt on Blog Page"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1262
+msgid "Show or Hide Excerpt on Blog List Page."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1273
+msgid "Excerpt Length on Blog List Page"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1274
+msgid ""
+"Customize the excerpt length on Blog List Page. Leave blank for the default "
+"value."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1286
+msgid "Default Layout the Posts by This Parameter."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1298
+msgid "Default Sorts the Posts by This Parameter."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1312
+msgid "Blog Page Sidebar Position"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1313
+msgid "Choose the Sidebar Position on Blog Page."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1325
+msgid "Single Page Sidebar Position"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1326
+msgid "Choose the Sidebar Position on Single Post Pages"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1338
+msgid "Display Image/Media"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1339
+msgid "Show or Hide Image/Media on Archive and Blog List Page."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1351
+msgid "Show or Hide Category on Archive and Blog List Page."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1363
+msgid "Show or Hide Separator Line on Archive and Blog List Page."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1374
+msgid "Display Author"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1375
+msgid "Show or Hide Author on Archive and Blog List Page."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1386
+msgid "Number of Comments"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1387
+msgid "Show or Hide Number of Comments on Blog List Page."
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1398
+msgid "Likes"
+msgstr ""
+
+#: ../aletheme/functions/theme_options.php:1399
+msgid "Show or Hide Likes on Blog List Page."
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:230
+msgid "Font Family"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:231
+msgid "Font family"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:257
+#: ../aletheme/functions/theme_options/typography/field_typography.php:258
+msgid "Backup Font Family"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:272
+#: ../aletheme/functions/theme_options/typography/field_typography.php:280
+msgid "Font style"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:273
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:320
+msgid "Font subsets"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:322
+msgid "Font Subsets"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:324
+msgid "Subsets"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:324
+msgid "Font script"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:341
+#: ../aletheme/functions/theme_options/typography/field_typography.php:342
+#: ../aletheme/functions/theme_options/typography/field_typography.php:343
+msgid "Text Align"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:364
+#: ../aletheme/functions/theme_options/typography/field_typography.php:365
+#: ../aletheme/functions/theme_options/typography/field_typography.php:366
+msgid "Text Transform"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:387
+#: ../aletheme/functions/theme_options/typography/field_typography.php:388
+#: ../aletheme/functions/theme_options/typography/field_typography.php:389
+msgid "Font Variant"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:407
+#: ../aletheme/functions/theme_options/typography/field_typography.php:408
+#: ../aletheme/functions/theme_options/typography/field_typography.php:409
+msgid "Text Decoration"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:431
+#: ../aletheme/functions/theme_options/typography/field_typography.php:432
+msgid "Font Size"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:440
+#: ../aletheme/functions/theme_options/typography/field_typography.php:441
+msgid "Line Height"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:449
+#: ../aletheme/functions/theme_options/typography/field_typography.php:450
+msgid "Word Spacing"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:458
+#: ../aletheme/functions/theme_options/typography/field_typography.php:459
+msgid "Letter Spacing"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:477
+msgid "Font Color"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:479
+msgid "Font color"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:907
+msgid "Standard Fonts"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography.php:1008
+msgid "Google Webfonts"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography_json.min.js:1
+msgid "#"
+msgstr ""
+
+#: ../aletheme/functions/theme_options/typography/field_typography_json.min.js:1
+msgid "."
+msgstr ""
+
+#: ../aletheme/functions/woocommerce.php:23
+msgid "Sale"
+msgstr ""
+
+#: ../aletheme/functions/woocommerce.php:84
+msgid "Search for:"
+msgstr ""
+
+#: ../aletheme/functions/woocommerce.php:85
+msgid "Search products..."
+msgstr ""
+
+#: ../aletheme/functions/woocommerce.php:181
+msgid "Sold"
+msgstr ""
+
+#: ../aletheme/functions/woocommerce.php:365
+msgid "Awaiting product image"
+msgstr ""
+
+#: ../aletheme/taxonomies/tax-meta-class.php:373
+#: ../aletheme/taxonomies/tax-meta-class.php:420
+msgid "Remove"
+msgstr ""
+
+#: ../aletheme/taxonomies/tax-meta-class.php:386
+msgid "Add"
+msgstr ""
+
+#: ../aletheme/taxonomies/tax-meta-class.php:719
+msgid "Remove Image"
+msgstr ""
+
+#: ../aletheme/taxonomies/tax-meta-class.php:721
+msgid "Upload Image"
+msgstr ""
+
+#: ../aletheme/taxonomies/tax-meta-class.php:741
+msgid "Select a color"
+msgstr ""
+
+#: ../aletheme/taxonomies/taxonomies-fields.php:99
+msgid "Category Icon"
+msgstr ""
+
+#: ../aletheme/taxonomies/taxonomies-fields.php:120
+msgid "Category Icon "
+msgstr ""
+
+#: ../attachment.php:22
+msgid "Continue reading <span class=\"meta-nav\">&amp;raquo;</span>"
+msgstr ""
+
+#: ../attachment.php:23
+msgid "Pages:"
+msgstr ""
+
+#: ../comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: ../comments.php:12
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:22
+msgid "&larr; Older comments"
+msgstr ""
+
+#: ../comments.php:23
+msgid "Newer comments &rarr;"
+msgstr ""
+
+#: ../comments.php:35
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:41
+msgid "Leave a comment"
+msgstr ""
+
+#: ../comments.php:47
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:53
+#, php-format
+msgid ""
+"<a class=\"login_link\" href=\"%s/wp-admin/profile.php\">Logged in as %s</a>."
+msgstr ""
+
+#: ../comments.php:53
+msgid "Log out of this account"
+msgstr ""
+
+#: ../comments.php:53
+msgid "Log out"
+msgstr ""
+
+#: ../comments.php:63
+msgid "Your name*"
+msgstr ""
+
+#: ../comments.php:66
+msgid "Your e-mail*"
+msgstr ""
+
+#: ../comments.php:73
+msgid "Type here your comment"
+msgstr ""
+
+#: ../comments.php:77
+msgid "Post a Comment"
+msgstr ""
+
+#: ../partials/content-page-header.php:63
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../partials/notfound.php:2
+msgid "No results were found for the requested page."
+msgstr ""
+
+#: ../partials/pagination.php:6 ../partials/pagination.php:7
+msgid "Previous"
+msgstr ""
+
+#: ../partials/pagination.php:15 ../partials/pagination.php:16
+msgid "Next"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Type here..."
+msgstr ""
+
+#: ../searchform.php:5
+msgid "Search"
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:27
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:47
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:70
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:78
+msgid "No products in the cart."
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:21
+msgid ""
+"There are some issues with the items in your cart. Please go back to the "
+"cart page and resolve these issues before checking out."
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:25
+msgid "Return to cart"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:29
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:32
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:34
+msgid "My account"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:40
+#: ../woocommerce/checkout/thankyou.php:82
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:45
+msgid "Order number:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:50
+msgid "Date:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:56
+msgid "Email:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:62
+msgid "Total:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:68
+msgid "Payment method:"
+msgstr ""
+
+#: ../woocommerce/global/quantity-input.php:33
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:27
+msgid "You may also like&hellip;"
+msgstr ""

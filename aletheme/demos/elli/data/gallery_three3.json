@@ -1,0 +1,38 @@
+[ {
+    "id":"d9aafa1",
+    "elType":"section",
+    "settings": {
+        "padding": {
+            "unit": "px", "top": "100", "right": "20", "bottom": "93", "left": "20", "isLinked": false
+        }
+        ,
+        "margin": {
+            "unit": "px", "top": "", "right": 0, "bottom": "", "left": 0, "isLinked": true
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"f0e0a5d",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100
+        }
+        ,
+        "elements":[ {
+            "id":"520229f",
+            "elType":"widget",
+            "settings": {
+                "style": "7", "post_count": 6
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-gallery"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+]

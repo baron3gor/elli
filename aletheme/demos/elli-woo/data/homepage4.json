@@ -1,0 +1,186 @@
+[ {
+    "id":"0cd901a",
+    "elType":"section",
+    "settings": {
+        "padding": {
+            "unit": "px", "top": "0", "right": "0", "bottom": "93", "left": "0", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"34a782e",
+        "elType":"column",
+        "settings": {
+            "_column_size":100,
+            "padding": {
+                "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+            }
+        }
+        ,
+        "elements":[ {
+            "id":"6a7452a",
+            "elType":"widget",
+            "settings": {
+                "woo_list":[ {
+                    "ale_woo_product":"alewoo1",
+                    "image": {
+                        "url": "aleimagelink_ale_woo_muffins_aleimagelink",
+                        "id": "aleimageid_ale_woo_muffins_aleimageid"
+                    }
+                    ,
+                    "img_size":"big",
+                    "_id":"006c7b3"
+                }
+                ,
+                {
+                    "ale_woo_product":"alewoo2",
+                    "image": {
+                        "url": "aleimagelink_ale_woo_jam_aleimagelink",
+                        "id": "aleimageid_ale_woo_jam_aleimageid"
+                    }
+                    ,
+                    "img_size":"small",
+                    "_id":"5307152"
+                }
+                ,
+                {
+                    "ale_woo_product":"alewoo3",
+                    "image": {
+                        "url": "aleimagelink_ale_woo_ceramickettle_aleimagelink",
+                        "id": "aleimageid_ale_woo_ceramickettle_aleimageid"
+                    }
+                    ,
+                    "img_size":"small",
+                    "_id":"9d67110"
+                }
+                ,
+                {
+                    "ale_woo_product":"alewoo4",
+                    "image": {
+                        "url": "aleimagelink_ale_service4_aleimagelink",
+                        "id": "aleimageid_ale_service4_aleimageid"
+                    }
+                    ,
+                    "img_size":"small",
+                    "_id":"df0e058"
+                }
+                ,
+                {
+                    "ale_woo_product":"alewoo5",
+                    "image": {
+                        "url": "aleimagelink_ale_woo_ceramiccup_aleimagelink",
+                        "id": "aleimageid_ale_woo_ceramiccup_aleimageid"
+                    }
+                    ,
+                    "img_size":"small",
+                    "_id":"388d03b"
+                }
+                ,
+                {
+                    "ale_woo_product":"alewoo6",
+                    "image": {
+                        "url": "aleimagelink_ale_woo_creativeplate_aleimagelink",
+                        "id": "aleimageid_ale_woo_creativeplate_aleimageid"
+                    }
+                    ,
+                    "img_size":"small",
+                    "_id":"c320426"
+                }
+                ,
+                {
+                    "ale_woo_product":"alewoo7",
+                    "image": {
+                        "url": "aleimagelink_ale_project_fooddesign_aleimagelink",
+                        "id": "aleimageid_ale_project_fooddesign_aleimageid"
+                    }
+                    ,
+                    "img_size":"small",
+                    "_id":"6e01ba2"
+                }
+                ,
+                {
+                    "ale_woo_product":"alewoo8",
+                    "image": {
+                        "url": "aleimagelink_ale_woo_yellowcock_aleimagelink",
+                        "id": "aleimageid_ale_woo_yellowcock_aleimageid"
+                    }
+                    ,
+                    "img_size":"big",
+                    "_id":"c79dbc0"
+                }
+                ,
+                {
+                    "ale_woo_product":"alewoo5",
+                    "image": {
+                        "url": "aleimagelink_ale_woo_freshcoffee_aleimagelink",
+                        "id": "aleimageid_ale_woo_freshcoffee_aleimageid"
+                    }
+                    ,
+                    "img_size":"small",
+                    "_id":"c4e1fb4"
+                }
+                ,
+                {
+                    "ale_woo_product":"alewoo4",
+                    "image": {
+                        "url": "aleimagelink_ale_woo_greenspices_aleimagelink",
+                        "id": "aleimageid_ale_woo_greenspices_aleimageid"
+                    }
+                    ,
+                    "_id":"fd7d027"
+                }
+                ,
+                {
+                    "ale_woo_product":"alewoo7",
+                    "image": {
+                        "url": "aleimagelink_ale_service3_aleimagelink",
+                        "id": "aleimageid_ale_service3_aleimageid"
+                    }
+                    ,
+                    "_id":"265067a"
+                }
+                ,
+                {
+                    "ale_woo_product":"alewoo1",
+                    "image": {
+                        "url": "aleimagelink_ale_woo_drylemon_aleimagelink",
+                        "id": "aleimageid_ale_woo_drylemon_aleimageid"
+                    }
+                    ,
+                    "_id":"6e3be9f"
+                }
+                ,
+                {
+                    "ale_woo_product":"alewoo3",
+                    "image": {
+                        "url": "aleimagelink_ale_woo_honey1_aleimagelink",
+                        "id": "aleimageid_ale_woo_honey1_aleimageid"
+                    }
+                    ,
+                    "_id":"24966cb"
+                }
+                ,
+                {
+                    "ale_woo_product":"alewoo5",
+                    "image": {
+                        "url": "aleimagelink_ale_woo_bluefruit_aleimagelink",
+                        "id": "aleimageid_ale_woo_bluefruit_aleimageid"
+                    }
+                    ,
+                    "_id":"df52dc3"
+                }
+                ],
+                "product_count":12
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-projects"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+]

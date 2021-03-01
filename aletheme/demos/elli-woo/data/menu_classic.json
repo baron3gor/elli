@@ -1,0 +1,272 @@
+[ {
+    "id":"d7f42ee",
+    "elType":"section",
+    "settings": {
+        "margin": {
+            "unit": "px", "top": "0", "right": 0, "bottom": "0", "left": 0, "isLinked": false
+        }
+        ,
+        "background_background":"classic",
+        "padding": {
+            "unit": "px", "top": "114", "right": "20", "bottom": "99", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"4db221a",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100
+        }
+        ,
+        "elements":[ {
+            "id":"0bc38bd",
+            "elType":"widget",
+            "settings": {
+                "image_photo": {
+                    "url": "aleimagelink_ale_main_face_aleimagelink",
+                    "id": "aleimageid_ale_main_face_aleimageid"
+                }
+                ,
+                "image_name":"JANET NORMAN \/ Chef",
+                "image_sign": {
+                    "url": "aleimagelink_ale_main_sign_aleimagelink",
+                    "id": "aleimageid_ale_main_sign_aleimageid"
+                }
+                ,
+                "image_description":"<p>Nunc accumsan lectus nec bibentdum dictum. Vestibulum sem augue, finibus a ultricies eu, sceleris que sit amet quam. Aenean iaculis, nisi ut placterat pulvinar, ex massa pulvinar sed neque ut convallis tellus felis nec turpis ut consequat.<br \/>Vivamus ut velit in risus mattis blandit vitae sit amet diam.<\/p>",
+                "bg_dots":"yes",
+                "bg_dots_width":106,
+                "bg_dots_height":147,
+                "bg_dots_color":"#d5cfc0",
+                "bg_dots_position": {
+                    "unit": "px", "top": "-17", "right": 0, "bottom": 0, "left": "-39", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-image-sign"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+,
+{
+    "id":"7b99a15",
+    "elType":"section",
+    "settings": {
+        "margin": {
+            "unit": "px", "top": "0", "right": 0, "bottom": "0", "left": 0, "isLinked": false
+        }
+        ,
+        "padding": {
+            "unit": "px", "top": "0", "right": "20", "bottom": "0", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"6cbaa83",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100
+        }
+        ,
+        "elements":[ {
+            "id":"393b09d",
+            "elType":"widget",
+            "settings": {
+                "menuitems":[ {
+                    "title":"Appetizers",
+                    "image": {
+                        "url": "aleimagelink_ale_orange_fruits_aleimagelink",
+                        "id": "aleimageid_ale_orange_fruits_aleimageid"
+                    }
+                    ,
+                    "term":["appetizers"],
+                    "_id":"2d784ae"
+                }
+                ,
+                {
+                    "title":"Stunning Mains",
+                    "image": {
+                        "url": "aleimagelink_ale_project_amazing_aleimagelink",
+                        "id": "aleimageid_ale_project_amazing_aleimageid"
+                    }
+                    ,
+                    "term":["coffee"],
+                    "_id":"349ae00"
+                }
+                ,
+                {
+                    "title":"Desserts",
+                    "image": {
+                        "url": "aleimagelink_ale_orange_fruits_aleimagelink",
+                        "id": "aleimageid_ale_orange_fruits_aleimageid"
+                    }
+                    ,
+                    "term":["delicious"],
+                    "_id":"28f96ef"
+                }
+                ],
+                "st1_dots":"yes",
+                "st1_dots_width":180,
+                "st1_dots_height":230,
+                "st1_dots_color":"#D5CFC0",
+                "st1_dots_position": {
+                    "unit": "px", "top": "387", "right": 0, "bottom": 0, "left": "-87", "isLinked": false
+                }
+                ,
+                "st1_lines":"yes",
+                "st1_lines_degree":-42,
+                "st1_lines_position": {
+                    "unit": "px", "top": "135", "right": 0, "bottom": 0, "left": "325", "isLinked": false
+                }
+                ,
+                "st1_line1":190,
+                "st1_line1_color":"#e2ded3",
+                "st1_line1_margin": {
+                    "unit": "px", "top": 0, "right": 0, "bottom": "6", "left": "10", "isLinked": false
+                }
+                ,
+                "st1_line2":190,
+                "st1_line2_color":"#ffb691",
+                "st1_line2_margin": {
+                    "unit": "px", "top": 0, "right": 0, "bottom": "16", "left": "0", "isLinked": false
+                }
+                ,
+                "st1_line3":102,
+                "st1_line3_color":"#a6a09d",
+                "st1_line3_margin": {
+                    "unit": "px", "top": 0, "right": 0, "bottom": "6", "left": "30", "isLinked": false
+                }
+                ,
+                "st1_line4":102,
+                "st1_line4_color":"#efede7",
+                "st1_line4_margin": {
+                    "unit": "px", "top": 0, "right": 0, "bottom": "0", "left": "20", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-menu-list"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+,
+{
+    "id":"e3cd5e0",
+    "elType":"section",
+    "settings": {
+        "background_background":"classic",
+        "background_color":"#f8f7f5",
+        "padding": {
+            "unit": "px", "top": "97", "right": "20", "bottom": "107", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"a730431",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100, "_inline_size": null
+        }
+        ,
+        "elements":[ {
+            "id":"5998218",
+            "elType":"section",
+            "settings": {
+                "structure": "20"
+            }
+            ,
+            "elements":[ {
+                "id":"0827425",
+                "elType":"column",
+                "settings": {
+                    "_column_size":50,
+                    "_inline_size":null,
+                    "_inline_size_mobile":76,
+                    "padding_mobile": {
+                        "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                    }
+                }
+                ,
+                "elements":[ {
+                    "id":"7d00837",
+                    "elType":"widget",
+                    "settings": {
+                        "sub_title": "Make online reservation", "title_text": "WE ARE AVAILABLE FOR DINNINGS & EVENTS"
+                    }
+                    ,
+                    "elements":[],
+                    "widgetType":"ale-heading"
+                }
+                ],
+                "isInner":true
+            }
+            ,
+            {
+                "id":"08408ee",
+                "elType":"column",
+                "settings": {
+                    "_column_size":50,
+                    "_inline_size":null,
+                    "padding": {
+                        "unit": "px", "top": "10", "right": "55", "bottom": "0", "left": "90", "isLinked": false
+                    }
+                    ,
+                    "_inline_size_mobile":88,
+                    "padding_mobile": {
+                        "unit": "px", "top": "20", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                    }
+                }
+                ,
+                "elements":[ {
+                    "id":"88d4502",
+                    "elType":"widget",
+                    "settings": {
+                        "editor": "<p>Quisque vel malesuada velit, nec imperdiet diam. Nulla condimentum mi eu velit elementum, at dapibus massa accumsan. Vestibulum eget mi nibh. Aenean blandit sapien nisi, id ullamcorper ex.<\/p><p>Book online or give us a call on +11 (22) 44 8888 between 10.30am \u2013 6pm on weekdays, and between 11pm \u2013 4.30pm on weekends.<\/p>"
+                    }
+                    ,
+                    "elements":[],
+                    "widgetType":"ale-text-editor"
+                }
+                ],
+                "isInner":true
+            }
+            ],
+            "isInner":true
+        }
+        ,
+        {
+            "id":"d1de492",
+            "elType":"widget",
+            "settings": {
+                "_margin": {
+                    "unit": "px", "top": "9", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                }
+                ,
+                "_margin_mobile": {
+                    "unit": "px", "top": "38", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-opentable"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+]

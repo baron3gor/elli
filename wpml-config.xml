@@ -1,0 +1,335 @@
+<wpml-config>
+    <admin-texts>
+        <key name="pxr_red_option">
+            <key name="footer-link-title" />
+            <key name="pre-logo-img" />
+            <key name="share-multi-check">
+                <key name="mail" />
+                <key name="twitter" />
+                <key name="facebook" />
+                <key name="pinterest" />
+                <key name="tumblr" />
+                <key name="linkedin" />
+                <key name="stumbleupon" />
+                <key name="vkontakte" />
+                <key name="delicious" />
+                <key name="reddit" />
+            </key>
+            <key name="theme_pages_nav" />
+            <key name="theme_inner_breadcrumbs" />
+            <key name="page-bg-image-height">
+                <key name="height" />
+            </key>
+            <key name="header-bg-color">
+                <key name="background-color" />
+            </key>
+            <key name="page-bg-dots-size">
+                <key name="height" />
+                <key name="width" />
+            </key>
+            <key name="elli-bg-header-dots">
+                <key name="units" />
+                <key name="bottom" />
+                <key name="right" />
+            </key>
+            <key name="elli-header-position">
+                <key name="units" />
+                <key name="top" />
+                <key name="right" />
+            </key>
+            <key name="elli-bg-header" />
+            <key name="section-header-imgs-start" />
+            <key name="elli-header-size">
+                <key name="width" />
+                <key name="units" />
+            </key>
+            <key name="header-animation1" />
+            <key name="header-image-animation1">
+                <key name="top" />
+                <key name="right" />
+                <key name="left" />
+                <key name="bottom" />
+                <key name="topleft" />
+                <key name="topright" />
+                <key name="bottomleft" />
+                <key name="bottomright" />
+            </key>
+            <key name="elli-bg-header2" />
+            <key name="elli-header-position2">
+                <key name="units" />
+                <key name="top" />
+                <key name="left" />
+            </key>
+            <key name="elli-header-size2">
+                <key name="width" />
+                <key name="units" />
+            </key>
+            <key name="header-animation2">
+            <key name="header-image-animation2">
+                <key name="top" />
+                <key name="right" />
+                <key name="left" />
+                <key name="bottom" />
+                <key name="topleft" />
+                <key name="topright" />
+                <key name="bottomleft" />
+                <key name="bottomright" />
+            </key>
+            <key name="elli-bg-header3" />
+            <key name="elli-header-position3">
+                <key name="units" />
+                <key name="bottom" />
+                <key name="left" />
+            </key>
+            <key name="elli-header-size3">
+                <key name="width" />
+                <key name="height" />
+                <key name="units" />
+            </key>
+            <key name="header-animation3" />
+            <key name="header-image-animation3">
+                <key name="top" />
+                <key name="right" />
+                <key name="left" />
+                <key name="bottom" />
+                <key name="topleft" />
+                <key name="topright" />
+                <key name="bottomleft" />
+                <key name="bottomright" />
+            </key>
+            <key name="page-footer-dots-size">
+                <key name="height" />
+                <key name="width" />
+                <key name="units" />
+            </key>
+            <key name="elli-bg-footer-dots">
+                <key name="bottom" />
+                <key name="left" />
+                <key name="units" />
+            </key>
+            <key name="page-footer-dots-size2">
+                <key name="height" />
+                <key name="width" />
+                <key name="units" />
+            </key>
+            <key name="elli-bg-footer-dots2">
+                <key name="top" />
+                <key name="right" />
+                <key name="units" />
+            </key>
+            <key name="fb" />
+            <key name="twi" />
+            <key name="pin" />
+            <key name="utb" />
+            <key name="lnkin" />
+            <key name="bhnc" />
+            <key name="flkr" />
+            <key name="git" />
+            <key name="stmb" />
+            <key name="tmb" />
+            <key name="vmo" />
+            <key name="vk" />
+            <key name="yelp" />
+            <key name="insta" />
+            <key name="ale-font-body">
+                <key name="color" />
+                <key name="font-size" />
+                <key name="font-family" />
+                <key name="font-weight" />
+                <key name="line-height" />
+                <key name="subsets" />
+            </key>
+            <key name="ale-font-h1">
+                <key name="color" />
+                <key name="font-size" />
+                <key name="font-family" />
+                <key name="font-weight" />
+                <key name="line-height" />
+                <key name="subsets" />
+                <key name="letter-spacing" />
+            </key>
+            <key name="ale-font-h2">
+                <key name="color" />
+                <key name="font-size" />
+                <key name="font-family" />
+                <key name="font-weight" />
+                <key name="line-height" />
+                <key name="subsets" />
+                <key name="letter-spacing" />
+            </key>
+            <key name="ale-font-h3">
+                <key name="color" />
+                <key name="font-size" />
+                <key name="font-family" />
+                <key name="font-weight" />
+                <key name="line-height" />
+                <key name="subsets" />
+                <key name="letter-spacing" />
+            </key>
+            <key name="ale-font-h4">
+                <key name="color" />
+                <key name="font-size" />
+                <key name="font-family" />
+                <key name="font-weight" />
+                <key name="line-height" />
+                <key name="subsets" />
+                <key name="letter-spacing" />
+            </key>
+            <key name="ale-font-h5">
+                <key name="color" />
+                <key name="font-size" />
+                <key name="font-family" />
+                <key name="font-weight" />
+                <key name="line-height" />
+                <key name="subsets" />
+                <key name="letter-spacing" />
+            </key>
+            <key name="ale-font-h6">
+                <key name="color" />
+                <key name="font-size" />
+                <key name="font-family" />
+                <key name="font-weight" />
+                <key name="line-height" />
+                <key name="subsets" />
+                <key name="letter-spacing" />
+                <key name="font-style" />
+            </key>
+            <key name="ale-header-subtitle">
+                <key name="color" />
+                <key name="font-size" />
+                <key name="font-family" />
+                <key name="font-weight" />
+                <key name="subsets" />
+                <key name="font-style" />
+            </key>
+            <key name="ale-menu-navigations">
+                <key name="color" />
+                <key name="font-size" />
+                <key name="font-family" />
+                <key name="font-weight" />
+                <key name="subsets" />
+                <key name="line-height" />
+                <key name="letter-spacing" />
+            </key>
+            <key name="ale-inputs">
+                <key name="color" />
+                <key name="font-size" />
+                <key name="font-family" />
+                <key name="font-weight" />
+                <key name="subsets" />
+                <key name="line-height" />
+                <key name="font-style" />
+            </key>
+            <key name="ale-blockquotes">
+                <key name="color" />
+                <key name="font-weight" />
+                <key name="font-family" />
+                <key name="font-style" />
+                <key name="font-size" />
+                <key name="line-height" />
+                <key name="subsets" />
+            </key>
+            <key name="ale-buttons">
+                <key name="color" />
+                <key name="font-weight" />
+                <key name="font-family" />
+                <key name="font-size" />
+                <key name="letter-spacing" />
+                <key name="subsets" />
+            </key>
+            <key name="ale-skills">
+                <key name="color" />
+                <key name="font-size" />
+                <key name="font-weight" />
+                <key name="font-family" />
+                <key name="font-style" />
+                <key name="letter-spacing" />
+                <key name="subsets" />
+            </key>
+            <key name="ale-font-header">
+                <key name="color" />
+                <key name="font-size" />
+                <key name="font-family" />
+                <key name="font-weight" />
+                <key name="line-height" />
+                <key name="subsets" />
+            </key>
+            <key name="google-maps-api" />
+            <key name="google-maps-marker" />
+            <key name="google-maps-marker-stroke" />
+            <key name="woocommerce-product-pp" />
+            <key name="woocommerce-sidebar-position">
+                <key name="woo-right-sidebar" />
+                <key name="woo-left-sidebar" />
+            </key>
+            <key name="elli-woocommerce-columns">
+                <key name="twocol" />
+                <key name="threecol" />
+            </key>
+            <key name="project_single_show">
+                <key name="yes" />
+                <key name="no" />
+            </key>
+            <key name="project_pages" />
+            <key name="blog_single_show">
+                <key name="yes" />
+                <key name="no" />
+            </key>
+            <key name="arch_show_exc">
+                <key name="yes" />
+                <key name="no" />
+            </key>
+            <key name="arch_exce" />
+            <key name="blog_show_exc">
+                <key name="yes" />
+                <key name="no" />
+            </key>
+            <key name="blog_exce" />
+            <key name="blog_layout">
+                <key name="list" />
+                <key name="grid" />
+            </key>
+            <key name="blog_order">
+                <key name="date" />
+                <key name="author" />
+                <key name="title" />
+                <key name="modified" />
+                <key name="type" />
+            </key>
+            <key name="blog_sidebar">
+                <key name="style1" />
+                <key name="style2" />
+                <key name="style3" />
+            </key>
+            <key name="single_page_sidebar">
+                <key name="1" />
+                <key name="2" />
+                <key name="3" />
+            </key>
+            <key name="blog_image">
+                <key name="yes" />
+                <key name="no" />
+            </key>
+            <key name="blog_cat">
+                <key name="yes" />
+                <key name="no" />
+            </key>
+            <key name="blog_separate">
+                <key name="yes" />
+                <key name="no" />
+            </key>
+            <key name="blog_author">
+                <key name="yes" />
+                <key name="no" />
+            </key>
+            <key name="blog_comment">
+                <key name="yes" />
+                <key name="no" />
+            </key>
+            <key name="blog_likes">
+                <key name="yes" />
+                <key name="no" />
+            </key>
+        </key>
+    </admin-texts>
+</wpml-config>

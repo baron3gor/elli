@@ -1,0 +1,37 @@
+[ {
+    "id":"291ddd2",
+    "elType":"section",
+    "settings": {
+        "padding": {
+            "unit": "px", "top": "0", "right": "20", "bottom": "0", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"9fda8a0",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100
+        }
+        ,
+        "elements":[ {
+            "id":"8e2cda2",
+            "elType":"widget",
+            "settings": {
+                "pagination":"pag",
+                "_padding": {
+                    "unit": "px", "top": "96", "right": "0", "bottom": "45", "left": "0", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-blog-list"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+]

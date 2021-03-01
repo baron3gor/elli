@@ -1,0 +1,451 @@
+[ {
+    "id":"e7a826c",
+    "elType":"section",
+    "settings": {
+        "margin": {
+            "unit": "px", "top": "0", "right": 0, "bottom": "0", "left": 0, "isLinked": false
+        }
+        ,
+        "background_background":"classic",
+        "padding": {
+            "unit": "px", "top": "114", "right": "20", "bottom": "99", "left": "20", "isLinked": false
+        }
+        ,
+        "background_position":"initial",
+        "background_xpos": {
+            "unit": "px", "size": 77, "sizes": []
+        }
+        ,
+        "background_ypos": {
+            "unit": "px", "size": 111, "sizes": []
+        }
+        ,
+        "background_repeat":"no-repeat",
+        "background_size":"initial",
+        "background_bg_width": {
+            "unit": "%", "size": 17, "sizes": []
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"bef211f",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100
+        }
+        ,
+        "elements":[ {
+            "id":"d5ec666",
+            "elType":"widget",
+            "settings": {
+                "list":[ {
+                    "title_slider":"Morbi lacinia ex magna, at maximus dui porta ac. Sed vel velit placerat, ultrices metus id, consectetur ante. Ut ac laoreet purus. ",
+                    "icon_slider": {
+                        "url": "aleimagelink_ale_menugallery_icon_aleimagelink",
+                        "id": "aleimageid_ale_menugallery_icon_aleimageid"
+                    }
+                    ,
+                    "description_slider":"<p>Cras lobortis purus est, a maximus urna tincidunt ullamcorper. Etiam sollicitudin nisi mi commodo, ut egestas porta lectus semper<\/p>",
+                    "_id":"0820b42"
+                }
+                ],
+                "description_margin_bottom": {
+                    "unit": "px", "size": 2, "sizes": []
+                }
+                ,
+                "menu_sliders":[ {
+                    "icon_slider": {
+                        "url": "aleimagelink_ale_menugallery_icon_aleimagelink",
+                        "id": "aleimageid_ale_menugallery_icon_aleimageid"
+                    }
+                    ,
+                    "image_slider": {
+                        "url": "aleimagelink_ale_whiteplate_aleimagelink",
+                        "id": "aleimageid_ale_whiteplate_aleimageid"
+                    }
+                    ,
+                    "description_slider":"<p>Mauris sed tortor ex. Nulla libero mauris, venenatis ut rhoncus tincidunt, pulvinar eu nisl. Etiam porttitor velit id sem maximus, sit amet cursus.<\/p>",
+                    "title_slider":"Morbi lacinia ex magna, at maximus dui porta ac. Sed vel velit placerat, ultrices id consectetur.",
+                    "_id":"444d5b1"
+                }
+                ,
+                {
+                    "image_slider": {
+                        "url": "aleimagelink_ale_whiteplate_aleimagelink",
+                        "id": "aleimageid_ale_whiteplate_aleimageid"
+                    }
+                    ,
+                    "description_slider":"<p>Mauris sed tortor ex. Nulla libero mauris, venenatis ut rhoncus tincidunt, pulvinar eu nisl. Etiam porttitor velit id sem maximus, sit amet cursus.<\/p>",
+                    "title_slider":"Praesent dignissim interdum pretium. Lorem ipsum dolor sit amet, consectetur",
+                    "_id":"ff46634"
+                }
+                ],
+                "bg_dots":"yes",
+                "bg_dots_width":152,
+                "bg_dots_height":210,
+                "bg_dots_color":"#e2ded3",
+                "bg_dots_position": {
+                    "unit": "%", "top": "22", "right": 0, "bottom": 0, "left": "-18", "isLinked": false
+                }
+                ,
+                "bg_dots2":"yes",
+                "bg_dots_width2":210,
+                "bg_dots_height2":169,
+                "bg_dots_color2":"#D5CFC0",
+                "bg_dots_position2": {
+                    "unit": "px", "top": "257", "right": "143", "bottom": 0, "left": 0, "isLinked": false
+                }
+                ,
+                "image_icon": {
+                    "url": "aleimagelink_ale_menugallery_icon_aleimagelink",
+                    "id": "aleimageid_ale_menugallery_icon_aleimageid"
+                }
+                ,
+                "_padding": {
+                    "unit": "%", "top": "0", "right": "0", "bottom": "0", "left": "10", "isLinked": false
+                }
+                ,
+                "_padding_tablet": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-menu-slider"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+,
+{
+    "id":"2ea9c34",
+    "elType":"section",
+    "settings": {
+        "margin": {
+            "unit": "px", "top": "", "right": 0, "bottom": "", "left": 0, "isLinked": false
+        }
+        ,
+        "padding": {
+            "unit": "px", "top": "0", "right": "20", "bottom": "0", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"624e60f",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100
+        }
+        ,
+        "elements":[ {
+            "id":"a2a5fe2",
+            "elType":"widget",
+            "settings": {
+                "menuitems":[ {
+                    "title":"Coffee Card",
+                    "description":"<p>Aenean tempor sapien vitae nunc fringilla tincidunt. Sed venenatis nisl aliquet orci mollis mattis. Vestibulum turpis nulla, eleifend sed varius nec facilisis. In a molestie sem. Ut suscipit volutpat magna at faucibus. Nulla eu magna lacus.<\/p>",
+                    "term":["56",
+                    "60",
+                    "61",
+                    "62"],
+                    "_id":"514d196",
+                    "hash":"yes",
+                    "stylegallery":"gallery"
+                }
+                ,
+                {
+                    "title":"Appetizers",
+                    "description":"<p>Aenean tempor sapien vitae nunc fringilla tincidunt. Sed venenatis nisl aliquet orci mollis mattis. Vestibulum turpis nulla, eleifend sed varius nec facilisis.<\/p><p>In a molestie sem. Ut suscipit volutpat magna at faucibus. Nulla eu magna lacus. Ut sit amet leo semper, posuere urna vel, molestie dui.<\/p>",
+                    "term":["58"],
+                    "_id":"d055408",
+                    "hash":"yes",
+                    "stylegallery":"gallery"
+                }
+                ],
+                "_padding": {
+                    "unit": "px", "top": "", "right": "", "bottom": "", "left": "", "isLinked": false
+                }
+                ,
+                "menugallery":[ {
+                    "stylegallery":"gallerytype",
+                    "image": {
+                        "url": "", "id": ""
+                    }
+                    ,
+                    "term":["coffee"],
+                    "hash":"yes",
+                    "_id":"89c6d10",
+                    "description":"<p>Aenean tempor sapien vitae nunc fringilla tincidunt. Sed venenatis nisl aliquet orci mollis mattis. Vestibulum turpis nulla, eleifend sed varius nec facilisis. Ut suscipit volutpat magna at faucibus. Nulla eu magna lacus.<\/p>",
+                    "title":"Delicious",
+                    "galleryimages":[ {
+                        "id": "aleimageid_ale_service4_aleimageid", "url": "aleimagelink_ale_service4_aleimagelink"
+                    }
+                    ,
+                    {
+                        "id": "aleimageid_ale_project_amazing_aleimageid", "url": "aleimagelink_ale_project_amazing_aleimagelink"
+                    }
+                    ,
+                    {
+                        "id": "aleimageid_ale_project_breakfast_aleimageid", "url": "aleimagelink_ale_project_breakfast_aleimagelink"
+                    }
+                    ],
+                    "show_dots":"yes",
+                    "dotswidth":124,
+                    "kk":"#6ec1e4",
+                    "posa": {
+                        "unit": "px", "left": "33", "top": "202", "right": 0, "bottom": 0
+                    }
+                    ,
+                    "dotsheight":272,
+                    "dotsposition": {
+                        "unit": "%", "top": "74", "right": 0, "bottom": 0, "left": "69"
+                    }
+                    ,
+                    "dotscolor":"#d5cfc0",
+                    "galleryalign":"left",
+                    "lines_show":"yes",
+                    "lineonepos": {
+                        "unit": "px", "bottom": "6", "top": 0, "right": 0, "left": "10", "isLinked": false
+                    }
+                    ,
+                    "linetwopos": {
+                        "unit": "px", "top": 0, "right": 0, "bottom": "16", "left": "0"
+                    }
+                    ,
+                    "linethreepos": {
+                        "unit": "px", "left": "30", "top": 0, "right": 0, "bottom": "6"
+                    }
+                    ,
+                    "linefourpos": {
+                        "unit": "px", "left": "20", "top": 0, "right": 0, "bottom": "0"
+                    }
+                    ,
+                    "line_deg":-42,
+                    "linesposition": {
+                        "unit": "%", "top": "56", "right": 0, "bottom": 0, "left": "86"
+                    }
+                    ,
+                    "lineonecolor":"#e2ded3",
+                    "lineone":190,
+                    "linetwo":190,
+                    "linetwocolor":"#ffb691",
+                    "linethree":102,
+                    "linethreecolor":"#a6a09d",
+                    "linefour":102,
+                    "linefourcolor":"#efede7"
+                }
+                ,
+                {
+                    
+                    "galleryimages":[ {
+                        "id": "aleimageid_ale_menugallery_cake_aleimageid", "url": "aleimagelink_ale_menugallery_cake_aleimagelink"
+                    }
+                    ,
+                    {
+                        "id": "aleimageid_ale_orange_fruits_aleimageid", "url": "aleimagelink_ale_orange_fruits_aleimagelink"
+                    }
+                    ,
+                    {
+                        "id": "aleimageid_ale_service3_aleimageid", "url": "aleimagelink_ale_service3_aleimagelink"
+                    }
+                    ],
+                    "title":"Appetizers",
+                    "description":"<p>Aenean tempor sapien vitae nunc fringilla tincidunt. Sed venenatis nisl aliquet orci mollis mattis. Vestibulum turpis nulla, eleifend sed varius nec facilisis. Ut suscipit volutpat magna at faucibus. Nulla eu magna lacus.<\/p>",
+                    "term":["appetizers"],
+                    "_id":"e30d236",
+                    "show_dots":"yes",
+                    "dotswidth":233,
+                    "posa": {
+                        "unit": "px", "top": "200", "right": 0, "bottom": 0, "left": "0"
+                    }
+                    ,
+                    "dotsposition": {
+                        "unit": "%", "left": "31", "top": "81", "right": 0, "bottom": 0
+                    }
+                    ,
+                    "dotsheight":233,
+                    "dotscolor":"#d5cfc0",
+                    "galleryalign":"right",
+                    "lines_show":"yes",
+                    "lineonepos": {
+                        "unit": "px", "bottom": "6", "top": 0, "right": 0, "left": "10"
+                    }
+                    ,
+                    "linetwopos": {
+                        "unit": "px", "bottom": "16", "top": 0, "right": 0, "left": "0"
+                    }
+                    ,
+                    "linethreepos": {
+                        "unit": "px", "bottom": "6", "top": 0, "right": 0, "left": "55"
+                    }
+                    ,
+                    "linefourpos": {
+                        "unit": "px", "left": "45", "top": 0, "right": 0, "bottom": "0"
+                    }
+                    ,
+                    "linesposition": {
+                        "unit": "%", "top": "20", "right": 0, "bottom": 0, "left": "-19"
+                    }
+                    ,
+                    "line_deg":-42,
+                    "lineone":200,
+                    "lineonecolor":"#e2ded3",
+                    "linetwo":200,
+                    "linetwocolor":"#ffb691",
+                    "linethree":102,
+                    "linethreecolor":"#a6a09d",
+                    "linefour":102,
+                    "linefourcolor":"#efede7"
+                }
+                ],
+                "_margin": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "-10", "left": "0", "isLinked": false
+                }
+                ,
+                "dotswidth":220,
+                "dotsheight": {
+                    "unit": "px", "size": 313
+                }
+                ,
+                "dotsposition": {
+                    "unit": "px", "top": "825", "right": 0, "bottom": 0, "left": "171", "isLinked": false
+                }
+                ,
+                "style":"style2",
+                "menumas":[ {
+                    "title": "new title", "term": ["58", "60"], "_id": "d5e0160"
+                }
+                ,
+                {
+                    "title": "Element", "term": "0", "_id": "119d299"
+                }
+                ]
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-menu-list"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+,
+{
+    "id":"c3ebbee",
+    "elType":"section",
+    "settings": {
+        "margin": {
+            "unit": "px", "top": "10", "right": 0, "bottom": "0", "left": 0, "isLinked": false
+        }
+        ,
+        "margin_tablet": {
+            "unit": "%", "top": "", "right": 0, "bottom": "", "left": 0, "isLinked": true
+        }
+        ,
+        "background_background":"classic",
+        "background_color":"#F8F7F5",
+        "padding": {
+            "unit": "px", "top": "49", "right": "0", "bottom": "49", "left": "0", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"967dd72",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100, "_inline_size": null
+        }
+        ,
+        "elements":[ {
+            "id":"c04b6f2",
+            "elType":"widget",
+            "settings": {
+                "style":"row",
+                "partner_multi":[ {
+                    "part_img": {
+                        "url": "aleimagelink_ale_partner4_aleimagelink",
+                        "id": "aleimageid_ale_partner4_aleimageid"
+                    }
+                    ,
+                    "url_link": {
+                        "url": "#"
+                    }
+                    ,
+                    "_id":"8e8498c"
+                }
+                ,
+                {
+                    "part_img": {
+                        "url": "aleimagelink_ale_partner2_aleimagelink",
+                        "id": "aleimageid_ale_partner2_aleimageid"
+                    }
+                    ,
+                    "url_link": {
+                        "url": "#"
+                    }
+                    ,
+                    "_id":"18d96d2"
+                }
+                ,
+                {
+                    "part_img": {
+                        "url": "aleimagelink_ale_partner3_aleimagelink",
+                        "id": "aleimageid_ale_partner3_aleimageid"
+                    }
+                    ,
+                    "url_link": {
+                        "url": "#"
+                    }
+                    ,
+                    "_id":"8d8879b"
+                }
+                ,
+                {
+                    "part_img": {
+                        "url": "aleimagelink_ale_partner1_aleimagelink",
+                        "id": "aleimageid_ale_partner1_aleimageid"
+                    }
+                    ,
+                    "url_link": {
+                        "url": "#"
+                    }
+                    ,
+                    "_id":"418cd05"
+                }
+                ,
+                {
+                    "part_img": {
+                        "url": "aleimagelink_ale_partner5_aleimagelink",
+                        "id": "aleimageid_ale_partner5_aleimageid"
+                    }
+                    ,
+                    "url_link": {
+                        "url": "#"
+                    }
+                    ,
+                    "_id":"c4f3a46"
+                }
+                ],
+                "margin_items": {
+                    "unit": "px", "size": 12, "sizes": []
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-partner"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+]

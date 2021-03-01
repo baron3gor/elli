@@ -1,0 +1,486 @@
+[ {
+    "id":"f8b0de9",
+    "elType":"section",
+    "settings": {
+        "padding": {
+            "unit": "px", "top": "100", "right": "20", "bottom": "107", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"505630e",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100
+        }
+        ,
+        "elements":[ {
+            "id":"acadfa2",
+            "elType":"section",
+            "settings": {
+                "structure":"20",
+                "margin": {
+                    "unit": "px", "top": "0", "right": 0, "bottom": "14", "left": 0, "isLinked": false
+                }
+                ,
+                "margin_mobile": {
+                    "unit": "px", "top": "0", "right": 0, "bottom": "105", "left": 0, "isLinked": false
+                }
+            }
+            ,
+            "elements":[ {
+                "id":"d5d36a3",
+                "elType":"column",
+                "settings": {
+                    "_column_size":50,
+                    "_inline_size":null,
+                    "margin": {
+                        "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                    }
+                    ,
+                    "padding": {
+                        "unit": "%", "top": "0", "right": "12", "bottom": "0", "left": "0", "isLinked": false
+                    }
+                    ,
+                    "margin_mobile": {
+                        "unit": "px", "top": "0", "right": "0", "bottom": "111", "left": "0", "isLinked": false
+                    }
+                    ,
+                    "_inline_size_tablet":100,
+                    "margin_tablet": {
+                        "unit": "px", "top": "0", "right": "0", "bottom": "111", "left": "0", "isLinked": false
+                    }
+                }
+                ,
+                "elements":[ {
+                    "id":"3bbbc26",
+                    "elType":"widget",
+                    "settings": {
+                        "title_text":"PRIVATE DININGS",
+                        "_margin": {
+                            "unit": "px", "top": "0", "right": "0", "bottom": "-19", "left": "0", "isLinked": false
+                        }
+                        ,
+                        "_padding": {
+                            "unit": "em", "top": "", "right": "", "bottom": "", "left": "", "isLinked": false
+                        }
+                        ,
+                        "style":"style4"
+                    }
+                    ,
+                    "elements":[],
+                    "widgetType":"ale-heading"
+                }
+                ,
+                {
+                    "id":"ff9d2fd",
+                    "elType":"widget",
+                    "settings": {
+                        "editor": "<p>At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd none gubergren, no sea takimata sanctus est sea Lorem ipsum.<\/p><p>Book online or give us a call on +11 (22) 44 8888 between 10.30am \u2013 6pm on weekdays, and between 11pm \u2013 4.30pm on weekends.<\/p>"
+                    }
+                    ,
+                    "elements":[],
+                    "widgetType":"ale-text-editor"
+                }
+                ],
+                "isInner":true
+            }
+            ,
+            {
+                "id":"23b3e8e",
+                "elType":"column",
+                "settings": {
+                    "_column_size":50,
+                    "_inline_size":null,
+                    "margin": {
+                        "unit": "%", "top": "0", "right": "12", "bottom": "0", "left": "0", "isLinked": false
+                    }
+                    ,
+                    "padding": {
+                        "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                    }
+                    ,
+                    "_inline_size_tablet":100
+                }
+                ,
+                "elements":[ {
+                    "id":"029494d",
+                    "elType":"widget",
+                    "settings": {
+                        "title_text":"BOOKING ONLINE",
+                        "_margin": {
+                            "unit": "px", "top": "0", "right": "0", "bottom": "-19", "left": "0", "isLinked": false
+                        }
+                        ,
+                        "_padding": {
+                            "unit": "em", "top": "", "right": "", "bottom": "", "left": "", "isLinked": false
+                        }
+                        ,
+                        "style":"style4"
+                    }
+                    ,
+                    "elements":[],
+                    "widgetType":"ale-heading"
+                }
+                ,
+                {
+                    "id":"ab06f96",
+                    "elType":"widget",
+                    "settings": {
+                        "editor":"<p>Suspendisse nulla sapien, pharetra sed quam ut, pharetra sodales purus. In eget dolor eget turpis ullamcorper dignissim. Nam viverra semper.<\/p><p>Interdum et malesuada fames ac ante ipsum primis in faucibusr placerat ligula ex.<\/p>",
+                        "_margin": {
+                            "unit": "%", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                        }
+                    }
+                    ,
+                    "elements":[],
+                    "widgetType":"ale-text-editor"
+                }
+                ],
+                "isInner":true
+            }
+            ],
+            "isInner":true
+        }
+        ,
+        {
+            "id":"204d05c",
+            "elType":"section",
+            "settings": {
+                "margin": {
+                    "unit": "px", "top": "9", "right": 0, "bottom": "0", "left": 0, "isLinked": false
+                }
+            }
+            ,
+            "elements":[ {
+                "id":"419421e",
+                "elType":"column",
+                "settings": {
+                    "_column_size":100,
+                    "_inline_size":null,
+                    "padding": {
+                        "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                    }
+                }
+                ,
+                "elements":[ {
+                    "id":"0cd005b",
+                    "elType":"widget",
+                    "settings": {
+                        "ale_rid": "268597"
+                    }
+                    ,
+                    "elements":[],
+                    "widgetType":"ale-opentable"
+                }
+                ],
+                "isInner":true
+            }
+            ],
+            "isInner":true
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+,
+{
+    "id":"ea492db",
+    "elType":"section",
+    "settings": {
+        "structure":"30",
+        "padding": {
+            "unit": "px", "top": "105", "right": "20", "bottom": "82", "left": "20", "isLinked": false
+        }
+        ,
+        "background_background":"classic",
+        "background_position":"center center",
+        "background_size":"cover",
+        "background_color":"#f8f7f5"
+    }
+    ,
+    "elements":[ {
+        "id":"8691b29",
+        "elType":"column",
+        "settings": {
+            "_column_size": 33, "_inline_size": 35.6, "_inline_size_tablet": 100
+        }
+        ,
+        "elements":[ {
+            "id":"6521aff",
+            "elType":"widget",
+            "settings": {
+                "sub_title":"We offer",
+                "title_text":"BEST SERVICE",
+                "_margin": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "-12", "left": "0", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-heading"
+        }
+        ,
+        {
+            "id":"a6c173a",
+            "elType":"widget",
+            "settings": {
+                "editor":"<p>Cras vel consectetur leo. Etiam et aliquam lorem. Nulla molestie eu quam porta tincidunt. Sed vehicula facilisis turpis, nec ultrices neque.<\/p><p>Cras fermentum quam eu laoreet dapibus. Cras commodo nisi quis ligula ullamcorper, sit amet condimentum elit tincidunt.<\/p>",
+                "_padding": {
+                    "unit": "%", "top": "0", "right": "20", "bottom": "0", "left": "0", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-text-editor"
+        }
+        ,
+        {
+            "id":"179aa14",
+            "elType":"widget",
+            "settings": {
+                "items":[ {
+                    "item": "Nunc ut turpis vitae augue iaculis", "_id": "322d7fe"
+                }
+                ,
+                {
+                    "item": "Nunc ut turpis vitae augue iaculis", "_id": "0bf8ba9"
+                }
+                ,
+                {
+                    "item": "Nunc ut turpis vitae augue iaculis", "_id": "aeb3172"
+                }
+                ],
+                "icon_list":[ {
+                    "text":"Maecenas bibendum, quam vel",
+                    "icon":"fa fa-check-circle",
+                    "_id":"2004d7d",
+                    "link": {
+                        "url": "", "is_external": "", "nofollow": ""
+                    }
+                }
+                ,
+                {
+                    "text":"Nunc dapibus velit non",
+                    "icon":"fa fa-check-circle",
+                    "_id":"3f7759e",
+                    "link": {
+                        "url": "", "is_external": "", "nofollow": ""
+                    }
+                }
+                ,
+                {
+                    "text":"enean elementum leo augue",
+                    "icon":"fa fa-check-circle",
+                    "_id":"75a834d",
+                    "link": {
+                        "url": "", "is_external": "", "nofollow": ""
+                    }
+                }
+                ],
+                "list_style":"style2",
+                "icon_align":"left",
+                "space_between": {
+                    "unit": "px", "size": 7, "sizes": []
+                }
+                ,
+                "_margin": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "78", "left": "0", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-list"
+        }
+        ],
+        "isInner":false
+    }
+    ,
+    {
+        "id":"904e99d",
+        "elType":"column",
+        "settings": {
+            "_column_size": 33, "_inline_size": 32.074, "_inline_size_tablet": 50
+        }
+        ,
+        "elements":[ {
+            "id":"b4b2cf7",
+            "elType":"widget",
+            "settings": {
+                "image": {
+                    "url": "aleimagelink_ale_service1_aleimagelink",
+                    "id": "aleimageid_ale_service1_aleimageid"
+                }
+                ,
+                "number":"1.",
+                "title":"EXTRA FOOD",
+                "image_description":"<p>Nulla at vulputate sem, non laoreet nisi. Aliquam sollicitudin augue<\/p>",
+                "title_align":"center",
+                "style":"style4",
+                "_margin": {
+                    "unit": "px", "top": "10", "right": "0", "bottom": "28", "left": "0", "isLinked": false
+                }
+                ,
+                "show_dots":"yes",
+                "dotswidth": {
+                    "unit": "px", "size": 79, "sizes": []
+                }
+                ,
+                "dotsheight": {
+                    "unit": "px", "size": 90, "sizes": []
+                }
+                ,
+                "dotsposition": {
+                    "unit": "px", "top": "-26", "right": 0, "bottom": 0, "left": "31", "isLinked": false
+                }
+                ,
+                "dots_color":"#d5cfc0",
+                "btn_text":"Learn more ",
+                "_margin_tablet": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "28", "left": "0", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-elli-image-box"
+        }
+        ,
+        {
+            "id":"2742fad",
+            "elType":"widget",
+            "settings": {
+                "image": {
+                    "url": "aleimagelink_ale_service3_aleimagelink",
+                    "id": "aleimageid_ale_service3_aleimageid"
+                }
+                ,
+                "number":"1.",
+                "title":"COOKING CLASSES",
+                "image_description":"<p>Nulla at vulputate sem, non laoreet nisi. Aliquam sollicitudin augue<\/p>",
+                "title_align":"center",
+                "style":"style4",
+                "show_dots":"yes",
+                "dotswidth": {
+                    "unit": "px", "size": 79, "sizes": []
+                }
+                ,
+                "dotsheight": {
+                    "unit": "px", "size": 90, "sizes": []
+                }
+                ,
+                "dotsposition": {
+                    "unit": "px", "top": "-26", "right": 0, "bottom": 0, "left": "31", "isLinked": false
+                }
+                ,
+                "dots_color":"#d5cfc0",
+                "btn_text":"Learn more ",
+                "_margin_mobile": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "28", "left": "0", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-elli-image-box"
+        }
+        ],
+        "isInner":false
+    }
+    ,
+    {
+        "id":"d8f1364",
+        "elType":"column",
+        "settings": {
+            "_column_size": 33, "_inline_size": 32, "_inline_size_tablet": 50
+        }
+        ,
+        "elements":[ {
+            "id":"20a6747",
+            "elType":"widget",
+            "settings": {
+                "image": {
+                    "url": "aleimagelink_ale_service2_aleimagelink",
+                    "id": "aleimageid_ale_service2_aleimageid"
+                }
+                ,
+                "number":"1.",
+                "title":"FOOD TRUCK",
+                "image_description":"<p>Nulla at vulputate sem, non laoreet nisi. Aliquam sollicitudin augue<\/p>",
+                "title_align":"center",
+                "style":"style4",
+                "_margin": {
+                    "unit": "px", "top": "10", "right": "0", "bottom": "28", "left": "0", "isLinked": false
+                }
+                ,
+                "show_dots":"yes",
+                "dotswidth": {
+                    "unit": "px", "size": 79, "sizes": []
+                }
+                ,
+                "dotsheight": {
+                    "unit": "px", "size": 90, "sizes": []
+                }
+                ,
+                "dotsposition": {
+                    "unit": "px", "top": "-26", "right": 0, "bottom": 0, "left": "31", "isLinked": false
+                }
+                ,
+                "dots_color":"#d5cfc0",
+                "btn_text":"Learn more ",
+                "_margin_tablet": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "28", "left": "0", "isLinked": false
+                }
+                ,
+                "_margin_mobile": {
+                    "unit": "px", "top": "10", "right": "0", "bottom": "28", "left": "0", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-elli-image-box"
+        }
+        ,
+        {
+            "id":"3f2e2e3",
+            "elType":"widget",
+            "settings": {
+                "image": {
+                    "url": "aleimagelink_ale_service4_aleimagelink",
+                    "id": "aleimageid_ale_service4_aleimageid"
+                }
+                ,
+                "number":"1.",
+                "title":"FOOD TASTING",
+                "image_description":"<p>Nulla at vulputate sem, non laoreet nisi. Aliquam sollicitudin augue<\/p>",
+                "title_align":"center",
+                "style":"style4",
+                "show_dots":"yes",
+                "dotswidth": {
+                    "unit": "px", "size": 79, "sizes": []
+                }
+                ,
+                "dotsheight": {
+                    "unit": "px", "size": 90, "sizes": []
+                }
+                ,
+                "dotsposition": {
+                    "unit": "px", "top": "-26", "right": 0, "bottom": 0, "left": "31", "isLinked": false
+                }
+                ,
+                "dots_color":"#d5cfc0",
+                "btn_text":"Learn more "
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-elli-image-box"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+]

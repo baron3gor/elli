@@ -1,0 +1,91 @@
+[ {
+    "id":"3a1739f",
+    "elType":"section",
+    "settings": {
+        "margin": {
+            "unit": "px", "top": "0", "right": 0, "bottom": "0", "left": 0, "isLinked": false
+        }
+        ,
+        "background_background":"classic",
+        "padding": {
+            "unit": "px", "top": "114", "right": "20", "bottom": "100", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"e90cad3",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100
+        }
+        ,
+        "elements":[ {
+            "id":"a012fcd",
+            "elType":"widget",
+            "settings": {
+                "image_photo": {
+                    "url": "aleimagelink_ale_main_face_aleimagelink",
+                    "id": "aleimageid_ale_main_face_aleimageid"
+                }
+                ,
+                "image_name":"JANET NORMAN \/ Project Manager",
+                "image_sign": {
+                    "url": "aleimagelink_ale_main_sign_aleimagelink",
+                    "id": "aleimageid_ale_main_sign_aleimageid"
+                }
+                ,
+                "image_description":"<p>Nunc accumsan lectus nec bibentdum dictum. Vestibulum sem augue, finibus a ultricies eu, sceleris que sit amet quam. Aenean iaculis, nisi ut placterat pulvinar, ex massa pulvinar sed neque ut convallis tellus felis nec turpis ut consequat.<br \/>Vivamus ut velit in risus mattis blandit vitae sit amet diam.<\/p>",
+                "bg_dots":"yes",
+                "bg_dots_width":106,
+                "bg_dots_height":147,
+                "bg_dots_color":"#d5cfc0",
+                "bg_dots_position": {
+                    "unit": "px", "top": "-17", "right": 0, "bottom": 0, "left": "-39", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-image-sign"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+,
+{
+    "id":"0a1b94a",
+    "elType":"section",
+    "settings": {
+        "padding": {
+            "unit": "px", "top": "0", "right": "20", "bottom": "99", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"b9d8b7e",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100
+        }
+        ,
+        "elements":[ {
+            "id":"94ef49f",
+            "elType":"widget",
+            "settings": {
+                "style": "2"
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-gallery"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+]

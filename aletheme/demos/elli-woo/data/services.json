@@ -1,0 +1,614 @@
+[ {
+    "id":"afdf11b",
+    "elType":"section",
+    "settings": {
+        "structure":"30",
+        "margin": {
+            "unit": "px", "top": "118", "right": 0, "bottom": "99", "left": 0, "isLinked": false
+        }
+        ,
+        "padding": {
+            "unit": "px", "top": "0", "right": "20", "bottom": "0", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"e55e859",
+        "elType":"column",
+        "settings": {
+            "_column_size": 33, "_inline_size": null, "_inline_size_tablet": 100, "align_tablet": "center"
+        }
+        ,
+        "elements":[ {
+            "id":"b34e99e",
+            "elType":"widget",
+            "settings": {
+                "style":"style3",
+                "image": {
+                    "url": "aleimagelink_ale_home_iconshop_aleimagelink",
+                    "id": "aleimageid_ale_home_iconshop_aleimageid"
+                }
+                ,
+                "number":"1.",
+                "title":"FAST DELIVERY",
+                "image_description":"<p>Vivamus nec mattis dolor cras quam sem, tempor sed velit, lobortis egestas odio mattis leo ipsum justo<\/p>",
+                "_padding": {
+                    "unit": "px", "top": "0", "right": "55", "bottom": "0", "left": "0", "isLinked": false
+                }
+                ,
+                "btn_text":"Learn more ",
+                "_margin": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "57", "left": "0", "isLinked": false
+                }
+                ,
+                "_padding_tablet": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                }
+                ,
+                "_element_width_tablet":"initial",
+                "_element_width_mobile":"initial",
+                "_element_custom_width_tablet": {
+                    "unit": "px", "size": 680, "sizes": []
+                }
+                ,
+                "_element_custom_width_mobile": {
+                    "unit": "px", "size": 420, "sizes": []
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-elli-image-box"
+        }
+        ,
+        {
+            "id":"8ee771f",
+            "elType":"widget",
+            "settings": {
+                "style":"style3",
+                "image": {
+                    "url": "aleimagelink_ale_home_iconglass_aleimagelink",
+                    "id": "aleimageid_ale_home_iconglass_aleimageid"
+                }
+                ,
+                "number":"1.",
+                "title":"CELEBRATIONS",
+                "image_description":"<p>Vivamus nec mattis dolor cras quam sem, tempor sed velit, lobortis egestas odio mattis leo ipsum justo<\/p>",
+                "_padding": {
+                    "unit": "px", "top": "0", "right": "55", "bottom": "0", "left": "0", "isLinked": false
+                }
+                ,
+                "btn_text":"Learn more ",
+                "_padding_tablet": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                }
+                ,
+                "_element_width_tablet":"initial",
+                "_element_width_mobile":"initial",
+                "_element_custom_width_tablet": {
+                    "unit": "px", "size": 680, "sizes": []
+                }
+                ,
+                "_element_custom_width_mobile": {
+                    "unit": "px", "size": 420, "sizes": []
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-elli-image-box"
+        }
+        ],
+        "isInner":false
+    }
+    ,
+    {
+        "id":"4bc3ec0",
+        "elType":"column",
+        "settings": {
+            "_column_size": 33, "_inline_size": null, "_inline_size_tablet": 100, "align_tablet": "center"
+        }
+        ,
+        "elements":[ {
+            "id":"1ee4f5a",
+            "elType":"widget",
+            "settings": {
+                "style":"style3",
+                "image": {
+                    "url": "aleimagelink_ale_home_icondish_aleimagelink",
+                    "id": "aleimageid_ale_home_icondish_aleimageid"
+                }
+                ,
+                "number":"1.",
+                "title":"SPECIAL EVENTS",
+                "image_description":"<p>Vivamus nec mattis dolor cras quam sem, tempor sed velit, lobortis egestas odio mattis leo ipsum justo<\/p>",
+                "_padding": {
+                    "unit": "px", "top": "0", "right": "55", "bottom": "0", "left": "0", "isLinked": false
+                }
+                ,
+                "image_margin_bottom": {
+                    "unit": "px", "size": 20
+                }
+                ,
+                "btn_text":"Learn more ",
+                "_margin": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "57", "left": "0", "isLinked": false
+                }
+                ,
+                "_padding_tablet": {
+                    "unit": "px", "top": "68", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                }
+                ,
+                "_element_width_tablet":"initial",
+                "_element_width_mobile":"initial",
+                "_element_custom_width_tablet": {
+                    "unit": "px", "size": 680, "sizes": []
+                }
+                ,
+                "_element_custom_width_mobile": {
+                    "unit": "px", "size": 420, "sizes": []
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-elli-image-box"
+        }
+        ,
+        {
+            "id":"563482d",
+            "elType":"widget",
+            "settings": {
+                "style":"style3",
+                "image": {
+                    "url": "aleimagelink_ale_home_iconbook_aleimagelink",
+                    "id": "aleimageid_ale_home_iconbook_aleimageid"
+                }
+                ,
+                "number":"1.",
+                "title":"MENU TASTING",
+                "image_description":"<p>Vivamus nec mattis dolor cras quam sem, tempor sed velit, lobortis egestas odio mattis leo ipsum justo<\/p>",
+                "_padding": {
+                    "unit": "px", "top": "0", "right": "55", "bottom": "0", "left": "0", "isLinked": false
+                }
+                ,
+                "btn_text":"Learn more ",
+                "_padding_tablet": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                }
+                ,
+                "_element_width_tablet":"initial",
+                "_element_width_mobile":"initial",
+                "_element_custom_width_tablet": {
+                    "unit": "px", "size": 680, "sizes": []
+                }
+                ,
+                "_element_custom_width_mobile": {
+                    "unit": "px", "size": 420, "sizes": []
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-elli-image-box"
+        }
+        ],
+        "isInner":false
+    }
+    ,
+    {
+        "id":"40343fd",
+        "elType":"column",
+        "settings": {
+            "_column_size": 33, "_inline_size": null, "_inline_size_tablet": 100, "align_tablet": "center"
+        }
+        ,
+        "elements":[ {
+            "id":"bb559b3",
+            "elType":"widget",
+            "settings": {
+                "style":"style3",
+                "image": {
+                    "url": "aleimagelink_ale_home_iconstar_aleimagelink",
+                    "id": "aleimageid_ale_home_iconstar_aleimageid"
+                }
+                ,
+                "number":"1.",
+                "title":"CATERING",
+                "image_description":"<p>Vivamus nec mattis dolor cras quam sem, tempor sed velit, lobortis egestas odio mattis leo ipsum justo<\/p>",
+                "_padding": {
+                    "unit": "px", "top": "0", "right": "55", "bottom": "0", "left": "0", "isLinked": false
+                }
+                ,
+                "btn_text":"Learn more ",
+                "_margin": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "57", "left": "0", "isLinked": false
+                }
+                ,
+                "_padding_tablet": {
+                    "unit": "px", "top": "68", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                }
+                ,
+                "_element_width_tablet":"initial",
+                "_element_width_mobile":"initial",
+                "_element_custom_width_tablet": {
+                    "unit": "px", "size": 680, "sizes": []
+                }
+                ,
+                "_element_custom_width_mobile": {
+                    "unit": "px", "size": 420, "sizes": []
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-elli-image-box"
+        }
+        ,
+        {
+            "id":"249b54d",
+            "elType":"widget",
+            "settings": {
+                "style":"style3",
+                "image": {
+                    "url": "aleimagelink_ale_home_iconsun_aleimagelink",
+                    "id": "aleimageid_ale_home_iconsun_aleimageid"
+                }
+                ,
+                "number":"1.",
+                "title":"BARISTA SHOW",
+                "image_description":"<p>Vivamus nec mattis dolor cras quam sem, tempor sed velit, lobortis egestas odio mattis leo ipsum justo<\/p>",
+                "_padding": {
+                    "unit": "px", "top": "0", "right": "55", "bottom": "0", "left": "0", "isLinked": false
+                }
+                ,
+                "btn_text":"Learn more ",
+                "_padding_tablet": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                }
+                ,
+                "_element_width_tablet":"initial",
+                "_element_width_mobile":"initial",
+                "_element_custom_width_tablet": {
+                    "unit": "px", "size": 680, "sizes": []
+                }
+                ,
+                "_element_custom_width_mobile": {
+                    "unit": "px", "size": 420, "sizes": []
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-elli-image-box"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+,
+{
+    "id":"a2ca491",
+    "elType":"section",
+    "settings": {
+        "structure":"20",
+        "padding": {
+            "unit": "px", "top": "0", "right": "20", "bottom": "0", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"b6fc1a4",
+        "elType":"column",
+        "settings": {
+            "_column_size":50,
+            "_inline_size":50,
+            "margin": {
+                "unit": "px", "top": "0", "right": "5", "bottom": "0", "left": "0", "isLinked": false
+            }
+            ,
+            "_inline_size_tablet":50
+        }
+        ,
+        "elements":[ {
+            "id":"71cc48a",
+            "elType":"widget",
+            "settings": {
+                "image": {
+                    "url": "aleimagelink_ale_service_orange_aleimagelink",
+                    "id": "aleimageid_ale_service_orange_aleimageid"
+                }
+                ,
+                "image_size":"full",
+                "dotswidth": {
+                    "unit": "px", "size": 120, "sizes": []
+                }
+                ,
+                "dotsheight": {
+                    "unit": "px", "size": 137, "sizes": []
+                }
+                ,
+                "dotsposition": {
+                    "unit": "px", "top": "-39", "right": 0, "bottom": 0, "left": "-44", "isLinked": false
+                }
+                ,
+                "show_dots":"yes"
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-image"
+        }
+        ],
+        "isInner":false
+    }
+    ,
+    {
+        "id":"bd463a7",
+        "elType":"column",
+        "settings": {
+            "_column_size":50,
+            "_inline_size":50.016,
+            "margin": {
+                "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "5", "isLinked": false
+            }
+            ,
+            "_inline_size_tablet":50
+        }
+        ,
+        "elements":[ {
+            "id":"61d7666",
+            "elType":"widget",
+            "settings": {
+                "image": {
+                    "url": "aleimagelink_ale_post_mmmm_aleimagelink",
+                    "id": "aleimageid_ale_post_mmmm_aleimageid"
+                }
+                ,
+                "image_size":"full",
+                "show_dots":"",
+                "dotswidth": {
+                    "unit": "px", "size": 130, "sizes": []
+                }
+                ,
+                "dotsheight": {
+                    "unit": "px", "size": 180, "sizes": []
+                }
+                ,
+                "dotsposition": {
+                    "unit": "px", "top": "655", "right": 0, "bottom": 0, "left": "-55", "isLinked": false
+                }
+                ,
+                "dots_color":"#e2ded3",
+                "dotswidth_right": {
+                    "unit": "px", "size": 148, "sizes": []
+                }
+                ,
+                "dotsheight_right": {
+                    "unit": "px", "size": 317, "sizes": []
+                }
+                ,
+                "dotsposition_right": {
+                    "unit": "px", "top": "278", "right": "-66", "bottom": 0, "left": 0, "isLinked": false
+                }
+                ,
+                "show_dots_right":"yes",
+                "dotswidth_right_mobile": {
+                    "unit": "px", "size": 0, "sizes": []
+                }
+                ,
+                "dotsheight_right_mobile": {
+                    "unit": "px", "size": 0, "sizes": []
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-image"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+,
+{
+    "id":"b329560",
+    "elType":"section",
+    "settings": {
+        "structure":"20",
+        "padding": {
+            "unit": "px", "top": "97", "right": "20", "bottom": "0", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"a696bfc",
+        "elType":"column",
+        "settings": {
+            "_column_size":50,
+            "_inline_size":50,
+            "margin": {
+                "unit": "%", "top": "", "right": "", "bottom": "", "left": "", "isLinked": false
+            }
+            ,
+            "padding": {
+                "unit": "em", "top": "", "right": "", "bottom": "", "left": "", "isLinked": true
+            }
+            ,
+            "_inline_size_tablet":76,
+            "_inline_size_mobile":88
+        }
+        ,
+        "elements":[ {
+            "id":"59960f2",
+            "elType":"widget",
+            "settings": {
+                "sub_title":"Best service",
+                "title_text":"WHAT WE OFFER",
+                "_margin": {
+                    "unit": "px", "top": "", "right": "", "bottom": "", "left": "", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-heading"
+        }
+        ],
+        "isInner":false
+    }
+    ,
+    {
+        "id":"fbe3744",
+        "elType":"column",
+        "settings": {
+            "_column_size":50,
+            "_inline_size":50.016,
+            "margin": {
+                "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "3", "isLinked": false
+            }
+            ,
+            "padding": {
+                "unit": "%", "top": "", "right": "", "bottom": "", "left": "", "isLinked": false
+            }
+        }
+        ,
+        "elements":[],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+,
+{
+    "id":"ca8b741",
+    "elType":"section",
+    "settings": {
+        "structure":"20",
+        "margin": {
+            "unit": "%", "top": "", "right": 0, "bottom": "", "left": 0, "isLinked": false
+        }
+        ,
+        "padding": {
+            "unit": "px", "top": "0", "right": "20", "bottom": "115", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"eea5256",
+        "elType":"column",
+        "settings": {
+            "_column_size": 50, "_inline_size": null, "_inline_size_tablet": 76, "_inline_size_mobile": 88
+        }
+        ,
+        "elements":[ {
+            "id":"22256bf",
+            "elType":"widget",
+            "settings": {
+                "editor":"<p>Phasellus sed diam convallis, luctus justo sed, vestibulum sem. Morbi dignissim mi ac blandit pretium. Donec posuere eu massa non porttitor. Nullam porttitor suscipit tempor. Aenean auctor urna ipsum. Aenean metus, lacinia quis tempor in, varius a sapien. Fusce ullamcorper ipsum turpis, sit amet convallis ligula mollis sed.<\/p><blockquote><p>Ut suscipit nunc vitae massa facilisis convallis a et orci. Donec quis tortor auctor, ultricies ex sed, venenatis dui euismod massa.<\/p><\/blockquote><p>Fusce dictum iaculis libero id dapibus. Nulla facilisi. Phasellus tincidunt pellentesque turpis vitae malesuada. Morbi lobortis, massa id placerat convallis, nulla augue interdum ex, non placerat.\u00a0<\/p>",
+                "_padding": {
+                    "unit": "%", "top": "0", "right": "24", "bottom": "0", "left": "0", "isLinked": false
+                }
+                ,
+                "_padding_tablet": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-text-editor"
+        }
+        ],
+        "isInner":false
+    }
+    ,
+    {
+        "id":"ea30419",
+        "elType":"column",
+        "settings": {
+            "_column_size":50,
+            "_inline_size":null,
+            "margin": {
+                "unit": "%", "top": "0", "right": "25", "bottom": "0", "left": "0", "isLinked": false
+            }
+            ,
+            "_inline_size_tablet":76,
+            "_inline_size_mobile":100,
+            "margin_tablet": {
+                "unit": "px", "top": "65", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+            }
+        }
+        ,
+        "elements":[ {
+            "id":"149339b",
+            "elType":"widget",
+            "settings": {
+                "items":[ {
+                    "item": "Loyalty Programs", "_id": "233c086"
+                }
+                ,
+                {
+                    "item": "Fantasy evenings", "_id": "c6f5fc6"
+                }
+                ,
+                {
+                    "item": "Local events", "_id": "d29e186"
+                }
+                ,
+                {
+                    "item": "Food tasting", "_id": "3954046"
+                }
+                ,
+                {
+                    "item": "Cooking classes", "_id": "5a1d04a"
+                }
+                ,
+                {
+                    "item": "Celebrity meetings", "_id": "0b61c8d"
+                }
+                ,
+                {
+                    "item": "Battle of the brands", "_id": "188c709"
+                }
+                ],
+                "icon_list":[ {
+                    "text":"List Item #1",
+                    "icon":"fa fa-check",
+                    "_id":"1b63003",
+                    "link": {
+                        "url": "", "is_external": "", "nofollow": ""
+                    }
+                }
+                ,
+                {
+                    "text":"List Item #2",
+                    "icon":"fa fa-times",
+                    "_id":"47b1f49",
+                    "link": {
+                        "url": "", "is_external": "", "nofollow": ""
+                    }
+                }
+                ,
+                {
+                    "text":"List Item #3",
+                    "icon":"fa fa-dot-circle-o",
+                    "_id":"756b3a5",
+                    "link": {
+                        "url": "", "is_external": "", "nofollow": ""
+                    }
+                }
+                ],
+                "_margin": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "5", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-list"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+]

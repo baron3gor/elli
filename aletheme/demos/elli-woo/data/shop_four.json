@@ -1,0 +1,37 @@
+[ {
+    "id":"29e5090",
+    "elType":"section",
+    "settings": {
+        "padding": {
+            "unit": "px", "top": "0", "right": "20", "bottom": "0", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"3130557",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100
+        }
+        ,
+        "elements":[ {
+            "id":"b0efb8d",
+            "elType":"widget",
+            "settings": {
+                "per_page":8,
+                "_padding": {
+                    "unit": "px", "top": "114", "right": "0", "bottom": "39", "left": "0", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-woocommerce-products"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+]

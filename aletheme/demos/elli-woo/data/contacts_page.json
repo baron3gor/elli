@@ -1,0 +1,166 @@
+[ {
+    "id":"5022cf2",
+    "elType":"section",
+    "settings": {
+        "layout":"full_width",
+        "gap":"no",
+        "padding": {
+            "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": true
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"074b5ac",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100
+        }
+        ,
+        "elements":[ {
+            "id":"d1d0a01",
+            "elType":"widget",
+            "settings": {
+                "locations":[ {
+                    "lat": "51.482386", "lon": " -0.115751", "title": "\u00e9lli", "_id": "b0d1eb3", "content": ""
+                }
+                ],
+                "bwcolor":"true",
+                "ellicolor":"true"
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-google-maps"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+,
+{
+    "id":"01ab83e",
+    "elType":"section",
+    "settings": {
+        "structure":"20",
+        "padding": {
+            "unit": "px", "top": "107", "right": "20", "bottom": "124", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"3b1d1bb",
+        "elType":"column",
+        "settings": {
+            "_column_size":50,
+            "_inline_size":null,
+            "_inline_size_tablet":100,
+            "margin": {
+                "unit": "%", "top": "0", "right": "12", "bottom": "0", "left": "0", "isLinked": false
+            }
+            ,
+            "margin_tablet": {
+                "unit": "px", "top": "0", "right": "0", "bottom": "54", "left": "0", "isLinked": false
+            }
+        }
+        ,
+        "elements":[ {
+            "id":"0e64982",
+            "elType":"widget",
+            "settings": {
+                "sub_title":"Contact with us",
+                "title_text":"GET IN TOUCH",
+                "_margin": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "-11", "left": "0", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-heading"
+        }
+        ,
+        {
+            "id":"cce8a18",
+            "elType":"widget",
+            "settings": {
+                "editor":"<p>206 West Riverview St. Moses Lake, WA 98837<\/p><p>youremailaddress@mtdesign.com \/ reservation@mtdesign.com<\/p><p>+123 (222) 44 8888 \/ +11(233) 888 8888<\/p>",
+                "_margin": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "23", "left": "0", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-text-editor"
+        }
+        ,
+        {
+            "id":"ed087d7",
+            "elType":"widget",
+            "settings": {
+                "fb": "#", "tw": "#", "pint": "#", "tmb": "#", "insta": "#"
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-social-links"
+        }
+        ,
+        {
+            "id":"7509681",
+            "elType":"widget",
+            "settings": {
+                "space": {
+                    "unit": "px", "size": 1
+                }
+                ,
+                "_margin": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                }
+                ,
+                "_padding": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"spacer"
+        }
+        ],
+        "isInner":false
+    }
+    ,
+    {
+        "id":"e766421",
+        "elType":"column",
+        "settings": {
+            "_column_size":50,
+            "_inline_size":null,
+            "margin": {
+                "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+            }
+            ,
+            "padding": {
+                "unit": "px", "top": "1", "right": "10", "bottom": "0", "left": "0", "isLinked": false
+            }
+            ,
+            "_inline_size_tablet":100
+        }
+        ,
+        "elements":[ {
+            "id":"0c18b83",
+            "elType":"widget",
+            "settings": {
+                "shortcode": "[contact-form-7 id=\"192\" title=\"Contact form\"]"
+            }
+            ,
+            "elements":[],
+            "widgetType":"shortcode"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+]

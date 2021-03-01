@@ -1,0 +1,42 @@
+[ {
+    "id":"6117735",
+    "elType":"section",
+    "settings": {
+        "padding": {
+            "unit": "px", "top": "0", "right": "20", "bottom": "0", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"039c691",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100
+        }
+        ,
+        "elements":[ {
+            "id":"d1c3fe3",
+            "elType":"widget",
+            "settings": {
+                "style":"style3",
+                "columns":"2",
+                "_padding": {
+                    "unit": "px", "top": "96", "right": "0", "bottom": "45", "left": "0", "isLinked": false
+                }
+                ,
+                "excerpt_length":170,
+                "blog_cols":"two",
+                "style_layout":"grid"
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-blog-list"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+]

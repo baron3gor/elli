@@ -1,0 +1,16 @@
+<?php
+ale_demo_media::add_image_to_media_gallery('ale_aboutus_bg',"http://ellitheme.pixrow.co/media/pages/bgabout.jpg");
+ale_demo_media::add_image_to_media_gallery('ale_aboutus_orange',"http://ellitheme.pixrow.co/media/pages/aboutus1.jpg");
+ale_demo_media::add_image_to_media_gallery('ale_aboutus_plant',"http://ellitheme.pixrow.co/media/pages/aboutus3.jpg");
+ale_demo_media::add_image_to_media_gallery('ale_partner1',"http://ellitheme.pixrow.co/media/pages/partner1.png");
+ale_demo_media::add_image_to_media_gallery('ale_partner2',"http://ellitheme.pixrow.co/media/pages/partner2.png");
+ale_demo_media::add_image_to_media_gallery('ale_partner3',"http://ellitheme.pixrow.co/media/pages/partner3.png");
+ale_demo_media::add_image_to_media_gallery('ale_partner4',"http://ellitheme.pixrow.co/media/pages/partner4.png");
+ale_demo_media::add_image_to_media_gallery('ale_partner5',"http://ellitheme.pixrow.co/media/pages/partner5.png");
+ale_demo_media::add_image_to_media_gallery('ale_partner6',"http://ellitheme.pixrow.co/media/pages/partner6.png");
+ale_demo_media::add_image_to_media_gallery('ale_main_face',"http://ellitheme.pixrow.co/media/pages/face1.jpg");
+ale_demo_media::add_image_to_media_gallery('ale_main_sign',"http://ellitheme.pixrow.co/media/pages/sign.png");
+ale_demo_media::add_image_to_media_gallery('ale_service1',"http://ellitheme.pixrow.co/media/pages/service1.jpg");
+ale_demo_media::add_image_to_media_gallery('ale_service2',"http://ellitheme.pixrow.co/media/pages/service2.jpg");
+ale_demo_media::add_image_to_media_gallery('ale_service3',"http://ellitheme.pixrow.co/media/pages/service3.jpg");
+ale_demo_media::add_image_to_media_gallery('ale_service4',"http://ellitheme.pixrow.co/media/pages/service4.jpg");

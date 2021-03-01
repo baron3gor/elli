@@ -1,0 +1,91 @@
+[ {
+    "id":"c731527",
+    "elType":"section",
+    "settings": {
+        "margin": {
+            "unit": "%", "top": "", "right": 0, "bottom": "", "left": 0, "isLinked": false
+        }
+        ,
+        "background_background":"classic",
+        "padding": {
+            "unit": "px", "top": "114", "right": "20", "bottom": "86", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"e32ac46",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100
+        }
+        ,
+        "elements":[ {
+            "id":"d77956f",
+            "elType":"widget",
+            "settings": {
+                "image_photo": {
+                    "url": "aleimagelink_ale_main_face_aleimagelink",
+                    "id": "aleimageid_ale_main_face_aleimageid"
+                }
+                ,
+                "image_name":"JANET NORMAN \/ Blogger",
+                "image_sign": {
+                    "url": "aleimagelink_ale_main_sign_aleimagelink",
+                    "id": "aleimageid_ale_main_sign_aleimageid"
+                }
+                ,
+                "image_description":"<p>Nunc accumsan lectus nec bibentdum dictum. Vestibulum sem augue, finibus a ultricies eu, sceleris que sit amet quam. Aenean iaculis, nisi ut placterat pulvinar, ex massa pulvinar sed neque ut convallis tellus felis nec turpis ut consequat.<br \/>Vivamus ut velit in risus mattis blandit vitae sit amet diam.<\/p>",
+                "bg_dots":"yes",
+                "bg_dots_width":106,
+                "bg_dots_height":147,
+                "bg_dots_color":"#d5cfc0",
+                "bg_dots_position": {
+                    "unit": "px", "top": "-17", "right": 0, "bottom": 0, "left": "-39", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-image-sign"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+,
+{
+    "id":"dc4a97e",
+    "elType":"section",
+    "settings": {
+        "padding": {
+            "unit": "px", "top": "0", "right": "20", "bottom": "44", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"ced7595",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100, "_inline_size": null
+        }
+        ,
+        "elements":[ {
+            "id":"dffeb13",
+            "elType":"widget",
+            "settings": {
+                "post_count": 6, "excerpt_length": 170, "style": "style3"
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-blog-list"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+]

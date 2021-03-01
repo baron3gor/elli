@@ -1,0 +1,316 @@
+[ {
+    "id":"320d234",
+    "elType":"section",
+    "settings": {
+        "structure":"20",
+        "padding": {
+            "unit": "px", "top": "107", "right": "20", "bottom": "104", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"ee80ef2",
+        "elType":"column",
+        "settings": {
+            "_column_size":50,
+            "_inline_size":null,
+            "margin": {
+                "unit": "%", "top": "0", "right": "30", "bottom": "0", "left": "0", "isLinked": false
+            }
+            ,
+            "padding": {
+                "unit": "px", "top": "", "right": "", "bottom": "", "left": "", "isLinked": false
+            }
+            ,
+            "_inline_size_tablet":88,
+            "margin_tablet": {
+                "unit": "px", "top": "0", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+            }
+            ,
+            "padding_tablet": {
+                "unit": "px", "top": "", "right": "", "bottom": "", "left": "", "isLinked": false
+            }
+        }
+        ,
+        "elements":[ {
+            "id":"030c82a",
+            "elType":"widget",
+            "settings": {
+                "title_text":"GIVE US A CALL",
+                "_margin": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "-19", "left": "0", "isLinked": false
+                }
+                ,
+                "_padding": {
+                    "unit": "em", "top": "", "right": "", "bottom": "", "left": "", "isLinked": false
+                }
+                ,
+                "_margin_tablet": {
+                    "unit": "px", "top": "", "right": "", "bottom": "", "left": "", "isLinked": false
+                }
+                ,
+                "_padding_tablet": {
+                    "unit": "em", "top": "", "right": "", "bottom": "", "left": "", "isLinked": false
+                }
+                ,
+                "style":"style4"
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-heading"
+        }
+        ,
+        {
+            "id":"3c591ec",
+            "elType":"widget",
+            "settings": {
+                "editor": "<p>Give us a call on +11 (22) 44 8888 between 10.30am \u2013 6pm on weekdays, and between 11pm \u2013 4.30pm on weekends.<\/p>"
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-text-editor"
+        }
+        ,
+        {
+            "id":"ca48396",
+            "elType":"widget",
+            "settings": {
+                "space": {
+                    "unit": "px", "size": 36
+                }
+                ,
+                "space_tablet": {
+                    "unit": "px", "size": 52, "sizes": []
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"spacer"
+        }
+        ,
+        {
+            "id":"5f4565b",
+            "elType":"widget",
+            "settings": {
+                "title_text":"ONLINE RESERVATION",
+                "_margin": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "-19", "left": "0", "isLinked": false
+                }
+                ,
+                "_padding": {
+                    "unit": "em", "top": "", "right": "", "bottom": "", "left": "", "isLinked": false
+                }
+                ,
+                "style":"style4"
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-heading"
+        }
+        ,
+        {
+            "id":"209be08",
+            "elType":"widget",
+            "settings": {
+                "editor": "<p>Nunc congue orci est, et ullamcorper quam semper ac. Integer vitae ligula augue. Cras pulvinar ac augue in ultrices. Praesent et euismod libero, a rutrum sem.<\/p>"
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-text-editor"
+        }
+        ],
+        "isInner":false
+    }
+    ,
+    {
+        "id":"37965ea",
+        "elType":"column",
+        "settings": {
+            "_column_size":50,
+            "_inline_size":null,
+            "_inline_size_tablet":100,
+            "margin_tablet": {
+                "unit": "px", "top": "77", "right": "0", "bottom": "0", "left": "0", "isLinked": false
+            }
+            ,
+            "padding_tablet": {
+                "unit": "px", "top": "", "right": "", "bottom": "", "left": "", "isLinked": false
+            }
+        }
+        ,
+        "elements":[ {
+            "id":"6d327ee",
+            "elType":"widget",
+            "settings": {
+                "shortcode": "[contact-form-7 id=\"894\" title=\"Reservation form\"]"
+            }
+            ,
+            "elements":[],
+            "widgetType":"shortcode"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+,
+{
+    "id":"a9fb0b6",
+    "elType":"section",
+    "settings": {
+        "padding": {
+            "unit": "px", "top": "0", "right": "20", "bottom": "0", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"3d1b365",
+        "elType":"column",
+        "settings": {
+            "_column_size": 100
+        }
+        ,
+        "elements":[ {
+            "id":"b585cb7",
+            "elType":"widget",
+            "settings": {
+                "height":480,
+                "ellicolor":"true",
+                "locations":[ {
+                    "lat": "51.482386", "lon": " -0.115751", "title": "\u00e9lli", "_id": "c488dd8"
+                }
+                ]
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-google-maps"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+,
+{
+    "id":"062e7fd",
+    "elType":"section",
+    "settings": {
+        "structure":"20",
+        "margin": {
+            "unit": "px", "top": "", "right": 0, "bottom": "", "left": 0, "isLinked": true
+        }
+        ,
+        "padding": {
+            "unit": "px", "top": "97", "right": "20", "bottom": "97", "left": "20", "isLinked": false
+        }
+    }
+    ,
+    "elements":[ {
+        "id":"5967af6",
+        "elType":"column",
+        "settings": {
+            "_column_size": 50, "_inline_size": 60.049, "content_position": "center", "_inline_size_tablet": 100
+        }
+        ,
+        "elements":[ {
+            "id":"71efda4",
+            "elType":"widget",
+            "settings": {
+                "sub_title":"Call us or write if your have a questions",
+                "title_text":"NEED MORE INFORMATION?",
+                "_margin": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "-12", "left": "0", "isLinked": false
+                }
+                ,
+                "separate_size": {
+                    "unit": "px", "size": 0
+                }
+                ,
+                "_padding": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "1", "left": "0", "isLinked": false
+                }
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-heading"
+        }
+        ],
+        "isInner":false
+    }
+    ,
+    {
+        "id":"b1cf0dd",
+        "elType":"column",
+        "settings": {
+            "_column_size": 50, "_inline_size": 39.967, "content_position": "center"
+        }
+        ,
+        "elements":[ {
+            "id":"e98861d",
+            "elType":"widget",
+            "settings": {
+                "btn_text":"Contact us",
+                "btn_text_two":"Learn more ",
+                "btn_align":"right",
+                "_margin": {
+                    "unit": "px", "top": "0", "right": "0", "bottom": "8", "left": "0", "isLinked": false
+                }
+                ,
+                "show_elements":[],
+                "simple_slide":[ {
+                    "addons":[ {
+                        "title": "Add a title here", "description": "Start working with an company that can provide everything you need to generate awareness, drive traffic, connect with customers, and increase sales nascetur ridiculus mus. massa quis enim. Donec pede justo.", "_id": "69e1190"
+                    }
+                    ],
+                    "_id":"f3013e3",
+                    "menu item":[ {
+                        "_id": "cea1fd9"
+                    }
+                    ,
+                    {
+                        "_id": "db54f53"
+                    }
+                    ],
+                    "title":"test"
+                }
+                ,
+                {
+                    "addons":[ {
+                        "title": "Add a title here", "description": "Start working with an company that can provide everything you need to generate awareness, drive traffic, connect with customers, and increase sales nascetur ridiculus mus. massa quis enim. Donec pede justo.", "_id": "69e1190"
+                    }
+                    ],
+                    "_id":"a6aef1f",
+                    "menu item":[],
+                    "title":"lorem"
+                }
+                ,
+                {
+                    "menu item": [], "_id": "1698151"
+                }
+                ,
+                {
+                    "_id": "e7943e8"
+                }
+                ],
+                "test_slide":[ {
+                    "title": "Add a title here", "description": "Start working with an company that can provide everything you need to generate awareness, drive traffic, connect with customers, and increase sales nascetur ridiculus mus. massa quis enim. Donec pede justo.", "_id": "c07aa72"
+                }
+                ],
+                "btn_align_tablet":"left"
+            }
+            ,
+            "elements":[],
+            "widgetType":"ale-button"
+        }
+        ],
+        "isInner":false
+    }
+    ],
+    "isInner":false
+}
+
+]
